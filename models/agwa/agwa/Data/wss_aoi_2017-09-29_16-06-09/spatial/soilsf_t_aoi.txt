@@ -1,0 +1,3 @@
+"AZ671"|2|"CLA"|"Clay spot"|A spot where the surface texture is silty clay or clay in areas where the surface layer is sandy loam, loam, silt loam, or coarser.  Typically 0.1 to 1.0 acres.|"195843"
+"AZ671"|2|"GRA"|"Gravelly spot"|A spot where the surface layer has more than 35 percent, by volume, rock fragments that are mostly less than 3 inches in diameter in an area with less than 15 percent fragments.  Typically 0.1 to 1.0 acres.|"195844"
+"AZ671"|2|"SAN"|"Sandy spot"|A spot where the surface layer is loamy fine sand or coarser in areas where the surface layer of the named soils in the surrounding map unit is very fine sandy loam or finer.  Typically 0.1 to 1.0 acres.|"195845"

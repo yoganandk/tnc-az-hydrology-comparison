@@ -1,0 +1,3 @@
+"Abrupt textural change"|"Noncemented"||5|||152|||||"11254326"|"2951844"
+"Petrocalcic"|"Indurated"|13|41|51||||46|||"11254169"|"2951825"
+"Petrocalcic"|"Indurated"|20|36|51|||||||"11254095"|"2951816"

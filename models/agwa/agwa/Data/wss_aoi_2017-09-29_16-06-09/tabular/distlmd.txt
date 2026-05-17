@@ -1,0 +1,10 @@
+"Non-MLRA Soil Survey Area"|"AZ671"|"Cochise County, Arizona, Douglas-Tombstone Part"||06/01/2000 00:00:00|"fully certified"|09/20/2014 00:02:45|"1/12/2010 -- Edits to all AASHO and Unified groups made. Due to interpretation rewrite only one group could be represenative, or survey area would not upload to Datamart. KA
+9/9/2008  -- New data set uploaded to Datamart, minor data changes include setting undifferentiated group component percents to zero ""0"" so soil data viewer would rate mapunits, and other very minor changes.
+
+02/12/2007 -- New download preformed due to more edits to the database, a nontechnical soils descriptions being run for all the components. Corrections and updates to the Ecological Sites, for many of the surveys.
+
+7/15/2006 -- Data elaments updated for NB-430-5-7.
+
+4/30/2002 --soil business date entered as completion of limited specified review of survey data
+
+4/30/2002 -- export certification date changed from 1/15/2002 for a new SSURGO download -- sra"|"10280"|"44855"|"44757"

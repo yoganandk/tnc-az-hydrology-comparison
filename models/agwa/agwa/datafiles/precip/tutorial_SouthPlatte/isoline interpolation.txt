@@ -1,0 +1,5 @@
+Linear interpolation between isolines 26 and 28 at centroid (-104.7276, 39.5762 DD) of watershed.
+Centroid is 60.517201 miles from isoline 26 and 28.890898 miles from isoline 28.
+Interpolation = 26 + 2*(60.517201/89.408099)
+Interpolation = 27.35372973 tenths of an inch
+69.4784735142mm

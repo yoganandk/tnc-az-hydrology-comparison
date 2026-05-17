@@ -1,0 +1,665 @@
+NOTE 15301:  Began computing simulation run "PostDevelopment" at time 15Jun2023, 20:25:08.
+NOTE 20364:  Found no parameter problems in meteorologic model "100yr2hr_FS".
+NOTE 40049:  Found no parameter problems in basin model "LaTerraza - PostDevelopment".
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "57".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "57".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "57".
+     Alpha: 3.0646  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "57".
+     Inflow (cu m): 0  Precip excess (cu m): 122.2017
+     Outflow (cu m): 123.4029  Storage (cu m): 0.0015
+     Percent error: -0.9842
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "1".
+     Alpha: 20.3279  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "1".
+     Alpha: 11.1803  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "1".
+     Alpha: 2.0558  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "1".
+     Inflow (cu m): 123.4029  Precip excess (cu m): 110.5294
+     Outflow (cu m): 235.6495  Storage (cu m): 0.0022
+     Percent error: -0.735
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "58".
+     Alpha: 17.4867  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "58".
+     Alpha: 9.6177  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "58".
+     Alpha: 2.8255  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "58".
+     Inflow (cu m): 0  Precip excess (cu m): 86.5595
+     Outflow (cu m): 87.2481  Storage (cu m): 0.001
+     Percent error: -0.7966
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "5".
+     Alpha: 17.4867  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "5".
+     Alpha: 9.6177  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "5".
+     Alpha: 2.8255  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "5".
+     Inflow (cu m): 87.2481  Precip excess (cu m): 85.4638
+     Outflow (cu m): 173.9551  Storage (cu m): 0.0012
+     Percent error: -0.7205
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "4".
+     Alpha: 17.4867  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "4".
+     Alpha: 9.6177  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "4".
+     Alpha: 2.8255  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "4".
+     Inflow (cu m): 0  Precip excess (cu m): 86.9347
+     Outflow (cu m): 87.6815  Storage (cu m): 0.0018
+     Percent error: -0.8611
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "3".
+     Alpha: 17.4867  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "3".
+     Alpha: 9.6177  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "3".
+     Alpha: 2.8255  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "3".
+     Inflow (cu m): 87.6815  Precip excess (cu m): 88.0351
+     Outflow (cu m): 176.8882  Storage (cu m): 0.0016
+     Percent error: -0.6677
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "2".
+     Alpha: 17.4867  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "2".
+     Alpha: 9.6177  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "2".
+     Alpha: 2.8255  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "2".
+     Inflow (cu m): 235.6495  Precip excess (cu m): 96.3448
+     Outflow (cu m): 335.0435  Storage (cu m): 0.0028
+     Percent error: -0.9193
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "59".
+     Alpha: 6.4282  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "59".
+     Alpha: 3.5355  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "59".
+     Alpha: 2.8255  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "59".
+     Inflow (cu m): 0  Precip excess (cu m): 99.9297
+     Outflow (cu m): 101.138  Storage (cu m): 0.0024
+     Percent error: -1.2116
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "13".
+     Alpha: 6.4282  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "13".
+     Alpha: 3.5355  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "13".
+     Alpha: 2.8255  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "13".
+     Inflow (cu m): 613.0698  Precip excess (cu m): 99.4928
+     Outflow (cu m): 718.3741  Storage (cu m): 0.0064
+     Percent error: -0.8165
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "14".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "14".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "14".
+     Alpha: 1.6786  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "14".
+     Inflow (cu m): 718.3741  Precip excess (cu m): 105.9037
+     Outflow (cu m): 830.2042  Storage (cu m): 0.0073
+     Percent error: -0.7199
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "15".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "15".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "15".
+     Alpha: 1.6786  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "15".
+     Inflow (cu m): 830.2042  Precip excess (cu m): 103.4427
+     Outflow (cu m): 938.0435  Storage (cu m): 0.0061
+     Percent error: -0.4716
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "16".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "16".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "16".
+     Alpha: 1.6786  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "16".
+     Inflow (cu m): 938.0435  Precip excess (cu m): 112.6648
+     Outflow (cu m): 1,055.6094  Storage (cu m): 0.0076
+     Percent error: -0.4672
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "24".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "24".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "24".
+     Alpha: 0.9691  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "24".
+     Inflow (cu m): 0  Precip excess (cu m): 87.3635
+     Outflow (cu m): 88.3051  Storage (cu m): 0.0015
+     Percent error: -1.0794
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "61".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "61".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "61".
+     Alpha: 2.167  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "61".
+     Inflow (cu m): 88.3051  Precip excess (cu m): 93.4125
+     Outflow (cu m): 183.1455  Storage (cu m): 0.0023
+     Percent error: -0.7871
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "23".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "23".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "23".
+     Alpha: 2.167  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "23".
+     Inflow (cu m): 183.1455  Precip excess (cu m): 93.8209
+     Outflow (cu m): 278.8492  Storage (cu m): 0.0027
+     Percent error: -0.6808
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "22".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "22".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "22".
+     Alpha: 2.167  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "22".
+     Inflow (cu m): 278.8492  Precip excess (cu m): 92.5957
+     Outflow (cu m): 373.7374  Storage (cu m): 0.0031
+     Percent error: -0.618
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "21".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "21".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "21".
+     Alpha: 3.2865  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "21".
+     Inflow (cu m): 373.7374  Precip excess (cu m): 94.2293
+     Outflow (cu m): 470.2367  Storage (cu m): 0.003
+     Percent error: -0.4857
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "20".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "20".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "20".
+     Alpha: 3.2865  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "20".
+     Inflow (cu m): 470.2367  Precip excess (cu m): 95.0462
+     Outflow (cu m): 567.8173  Storage (cu m): 0.0032
+     Percent error: -0.4489
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "19".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "19".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "19".
+     Alpha: 3.2865  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "19".
+     Inflow (cu m): 567.8173  Precip excess (cu m): 94.6378
+     Outflow (cu m): 665.2314  Storage (cu m): 0.0034
+     Percent error: -0.4196
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "60".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "60".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "60".
+     Alpha: 3.2865  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "60".
+     Inflow (cu m): 665.2314  Precip excess (cu m): 90.962
+     Outflow (cu m): 759.2066  Storage (cu m): 0.0038
+     Percent error: -0.399
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "18".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "18".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "18".
+     Alpha: 3.2865  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "18".
+     Inflow (cu m): 759.2066  Precip excess (cu m): 90.8469
+     Outflow (cu m): 855.1851  Storage (cu m): 0.0056
+     Percent error: -0.6043
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "17".
+     Alpha: 20.3279  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "17".
+     Alpha: 11.1803  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "17".
+     Alpha: 1.3706  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "17".
+     Inflow (cu m): 855.1851  Precip excess (cu m): 67.239
+     Outflow (cu m): 929.3099  Storage (cu m): 0.0107
+     Percent error: -0.7477
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "42".
+     Alpha: 20.3279  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "42".
+     Alpha: 11.1803  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "42".
+     Alpha: 1.3706  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "42".
+     Inflow (cu m): 929.3099  Precip excess (cu m): 74.8694
+     Outflow (cu m): 1,008.8857  Storage (cu m): 0.0063
+     Percent error: -0.4693
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "41".
+     Alpha: 20.3279  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "41".
+     Alpha: 11.1803  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "41".
+     Alpha: 1.3706  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "41".
+     Inflow (cu m): 1,008.8857  Precip excess (cu m): 70.2328
+     Outflow (cu m): 1,083.9975  Storage (cu m): 0.0068
+     Percent error: -0.4528
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "40".
+     Alpha: 20.3279  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "40".
+     Alpha: 11.1803  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "40".
+     Alpha: 1.3706  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "40".
+     Inflow (cu m): 1,083.9975  Precip excess (cu m): 69.8273
+     Outflow (cu m): 1,159.0977  Storage (cu m): 0.0076
+     Percent error: -0.4576
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "53".
+     Alpha: 4.0656  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "53".
+     Alpha: 2.2361  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "53".
+     Alpha: 2.3739  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "53".
+     Inflow (cu m): 0  Precip excess (cu m): 83.0934
+     Outflow (cu m): 84.9134  Storage (cu m): 0.0067
+     Percent error: -2.1983
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "32".
+     Alpha: 4.0656  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "32".
+     Alpha: 2.2361  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "32".
+     Alpha: 2.3739  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "32".
+     Inflow (cu m): 84.9134  Precip excess (cu m): 76.5638
+     Outflow (cu m): 163.8741  Storage (cu m): 0.0094
+     Percent error: -1.4902
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "31".
+     Alpha: 4.0656  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "31".
+     Alpha: 2.2361  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "31".
+     Alpha: 2.3739  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "31".
+     Inflow (cu m): 163.8741  Precip excess (cu m): 78.5058
+     Outflow (cu m): 245.2717  Storage (cu m): 0.011
+     Percent error: -1.1976
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "30".
+     Alpha: 4.0656  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "30".
+     Alpha: 2.2361  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "30".
+     Alpha: 2.3739  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "30".
+     Inflow (cu m): 245.2717  Precip excess (cu m): 85.1669
+     Outflow (cu m): 333.7999  Storage (cu m): 0.0138
+     Percent error: -1.0214
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "56".
+     Alpha: 15.7459  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "56".
+     Alpha: 8.6603  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "56".
+     Alpha: 2.7411  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "56".
+     Inflow (cu m): 0  Precip excess (cu m): 74.723
+     Outflow (cu m): 75.4547  Storage (cu m): 0.001
+     Percent error: -0.9806
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "55".
+     Alpha: 15.7459  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "55".
+     Alpha: 8.6603  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "55".
+     Alpha: 2.7411  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "55".
+     Inflow (cu m): 75.4547  Precip excess (cu m): 84.8031
+     Outflow (cu m): 161.6033  Storage (cu m): 0.0014
+     Percent error: -0.8404
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "47".
+     Alpha: 15.7459  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "47".
+     Alpha: 8.6603  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "47".
+     Alpha: 2.7411  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "47".
+     Inflow (cu m): 161.6033  Precip excess (cu m): 80.0363
+     Outflow (cu m): 243.4258  Storage (cu m): 0.0018
+     Percent error: -0.74
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "66".
+     Alpha: 15.7459  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "66".
+     Alpha: 8.6603  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "66".
+     Alpha: 2.7411  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "66".
+     Inflow (cu m): 243.4258  Precip excess (cu m): 81.5796
+     Outflow (cu m): 327.1628  Storage (cu m): 0.0021
+     Percent error: -0.6644
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "46".
+     Alpha: 15.7459  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "46".
+     Alpha: 8.6603  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "46".
+     Alpha: 2.7411  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "46".
+     Inflow (cu m): 327.1628  Precip excess (cu m): 81.049
+     Outflow (cu m): 410.689  Storage (cu m): 0.0023
+     Percent error: -0.6074
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "65".
+     Alpha: 23.7062  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "65".
+     Alpha: 13.0384  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "65".
+     Alpha: 2.167  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "65".
+     Inflow (cu m): 0  Precip excess (cu m): 91.8867
+     Outflow (cu m): 92.6478  Storage (cu m): 0.0008
+     Percent error: -0.8292
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "6".
+     Alpha: 23.7062  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "6".
+     Alpha: 13.0384  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "6".
+     Alpha: 2.167  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "6".
+     Inflow (cu m): 92.6478  Precip excess (cu m): 93.0763
+     Outflow (cu m): 187.0873  Storage (cu m): 0.0011
+     Percent error: -0.7346
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "7".
+     Alpha: 23.7062  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "7".
+     Alpha: 13.0384  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "7".
+     Alpha: 2.167  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "7".
+     Inflow (cu m): 187.0873  Precip excess (cu m): 92.6797
+     Outflow (cu m): 281.5752  Storage (cu m): 0.0013
+     Percent error: -0.6468
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "8".
+     Alpha: 23.7062  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "8".
+     Alpha: 13.0384  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "8".
+     Alpha: 2.167  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "8".
+     Inflow (cu m): 281.5752  Precip excess (cu m): 89.904
+     Outflow (cu m): 373.6272  Storage (cu m): 0.0015
+     Percent error: -0.5787
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "43".
+     Alpha: 23.7062  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "43".
+     Alpha: 13.0384  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "43".
+     Alpha: 2.167  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "43".
+     Inflow (cu m): 373.6272  Precip excess (cu m): 88.3178
+     Outflow (cu m): 464.362  Storage (cu m): 0.0018
+     Percent error: -0.5236
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "44".
+     Alpha: 23.7062  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "44".
+     Alpha: 13.0384  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "44".
+     Alpha: 2.167  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "44".
+     Inflow (cu m): 464.362  Precip excess (cu m): 88.3178
+     Outflow (cu m): 555.3946  Storage (cu m): 0.002
+     Percent error: -0.4916
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "45".
+     Alpha: 20.3279  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "45".
+     Alpha: 11.1803  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "45".
+     Alpha: 2.7411  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "45".
+     Inflow (cu m): 410.689  Precip excess (cu m): 83.8174
+     Outflow (cu m): 497.2854  Storage (cu m): 0.0022
+     Percent error: -0.5624
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "54".
+     Alpha: 4.0656  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "54".
+     Alpha: 2.2361  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "54".
+     Alpha: 2.7411  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "54".
+     Inflow (cu m): 0  Precip excess (cu m): 76.1268
+     Outflow (cu m): 77.8783  Storage (cu m): 0.0085
+     Percent error: -2.312
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "48".
+     Alpha: 4.0656  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "48".
+     Alpha: 2.2361  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "48".
+     Alpha: 2.7411  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "48".
+     Inflow (cu m): 77.8783  Precip excess (cu m): 79.1796
+     Outflow (cu m): 159.1955  Storage (cu m): 0.0086
+     Percent error: -1.3664
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "49".
+     Alpha: 4.0656  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "49".
+     Alpha: 2.2361  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "49".
+     Alpha: 2.7411  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "49".
+     Inflow (cu m): 159.1955  Precip excess (cu m): 78.551
+     Outflow (cu m): 240.4577  Storage (cu m): 0.0107
+     Percent error: -1.1449
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "50".
+     Alpha: 4.0656  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "50".
+     Alpha: 2.2361  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "50".
+     Alpha: 2.7411  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "50".
+     Inflow (cu m): 240.4577  Precip excess (cu m): 79.9879
+     Outflow (cu m): 323.5665  Storage (cu m): 0.0118
+     Percent error: -0.9776
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "51".
+     Alpha: 4.0656  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "51".
+     Alpha: 2.2361  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "51".
+     Alpha: 2.7411  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "51".
+     Inflow (cu m): 323.5665  Precip excess (cu m): 88.1235
+     Outflow (cu m): 416.6091  Storage (cu m): 0.0131
+     Percent error: -1.198
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "63".
+     Alpha: 4.0656  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "63".
+     Alpha: 2.2361  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "63".
+     Alpha: 2.3739  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "63".
+     Inflow (cu m): 333.7999  Precip excess (cu m): 94.0505
+     Outflow (cu m): 431.5802  Storage (cu m): 0.0178
+     Percent error: -0.8759
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "29".
+     Alpha: 4.0656  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "29".
+     Alpha: 2.2361  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "29".
+     Alpha: 2.3739  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "29".
+     Inflow (cu m): 1,900.8694  Precip excess (cu m): 104.4184
+     Outflow (cu m): 2,022.4931  Storage (cu m): 0.0374
+     Percent error: -0.8599
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "39".
+     Alpha: 20.3279  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "39".
+     Alpha: 11.1803  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "39".
+     Alpha: 1.3706  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "39".
+     Inflow (cu m): 0  Precip excess (cu m): 120.8986
+     Outflow (cu m): 123.9941  Storage (cu m): 0.0097
+     Percent error: -2.5685
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "26".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "26".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "26".
+     Alpha: 1.6786  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "26".
+     Inflow (cu m): 1,055.6094  Precip excess (cu m): 75.9417
+     Outflow (cu m): 1,137.9335  Storage (cu m): 0.0087
+     Percent error: -0.5648
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "12".
+     Alpha: 6.4282  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "12".
+     Alpha: 3.5355  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "12".
+     Alpha: 2.167  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "12".
+     Inflow (cu m): 0  Precip excess (cu m): 113.7025
+     Outflow (cu m): 115.8107  Storage (cu m): 0.0094
+     Percent error: -1.8623
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "11".
+     Alpha: 6.4282  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "11".
+     Alpha: 3.5355  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "11".
+     Alpha: 2.167  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "11".
+     Inflow (cu m): 115.8107  Precip excess (cu m): 91.4901
+     Outflow (cu m): 209.4439  Storage (cu m): 0.0062
+     Percent error: -1.0368
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "10".
+     Alpha: 6.4282  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "10".
+     Alpha: 3.5355  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "10".
+     Alpha: 2.167  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "10".
+     Inflow (cu m): 209.4439  Precip excess (cu m): 88.7143
+     Outflow (cu m): 300.7708  Storage (cu m): 0.007
+     Percent error: -0.8786
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "9".
+     Alpha: 6.4282  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "9".
+     Alpha: 3.5355  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "9".
+     Alpha: 2.167  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "9".
+     Inflow (cu m): 300.7708  Precip excess (cu m): 93.4728
+     Outflow (cu m): 397.1333  Storage (cu m): 0.0072
+     Percent error: -0.7348
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "62".
+     Alpha: 6.4282  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "62".
+     Alpha: 3.5355  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "62".
+     Alpha: 2.167  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "62".
+     Inflow (cu m): 397.1333  Precip excess (cu m): 92.2832
+     Outflow (cu m): 492.6052  Storage (cu m): 0.0078
+     Percent error: -0.6531
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "52".
+     Alpha: 6.4282  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "52".
+     Alpha: 3.5355  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "52".
+     Alpha: 2.167  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "52".
+     Inflow (cu m): 492.6052  Precip excess (cu m): 93.089
+     Outflow (cu m): 590.8212  Storage (cu m): 0.0133
+     Percent error: -0.8776
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "25".
+     Alpha: 15.7459  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "25".
+     Alpha: 8.6603  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "25".
+     Alpha: 1.8131  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "25".
+     Inflow (cu m): 590.8212  Precip excess (cu m): 99.9803
+     Outflow (cu m): 694.6209  Storage (cu m): 0.0079
+     Percent error: -0.554
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "27".
+     Alpha: 15.7459  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "27".
+     Alpha: 8.6603  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "27".
+     Alpha: 1.8131  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "27".
+     Inflow (cu m): 694.6209  Precip excess (cu m): 71.4945
+     Outflow (cu m): 770.1194  Storage (cu m): 0.0074
+     Percent error: -0.5236
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "28".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "28".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "28".
+     Alpha: 1.6786  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "28".
+     Inflow (cu m): 770.1194  Precip excess (cu m): 118.1019
+     Outflow (cu m): 896.1733  Storage (cu m): 0.0272
+     Percent error: -0.8983
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "33".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "33".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "33".
+     Alpha: 2.3739  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "33".
+     Inflow (cu m): 0  Precip excess (cu m): 83.1712
+     Outflow (cu m): 84.147  Storage (cu m): 0.0018
+     Percent error: -1.1754
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "34".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "34".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "34".
+     Alpha: 2.3739  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "34".
+     Inflow (cu m): 84.147  Precip excess (cu m): 76.2741
+     Outflow (cu m): 161.9931  Storage (cu m): 0.0024
+     Percent error: -0.9814
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "35".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "35".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "35".
+     Alpha: 2.3739  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "35".
+     Inflow (cu m): 161.9931  Precip excess (cu m): 79.9879
+     Outflow (cu m): 244.0655  Storage (cu m): 0.0026
+     Percent error: -0.8625
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "36".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "36".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "36".
+     Alpha: 2.3739  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "36".
+     Inflow (cu m): 244.0655  Precip excess (cu m): 86.3544
+     Outflow (cu m): 332.8425  Storage (cu m): 0.0028
+     Percent error: -0.734
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "37".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "37".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "37".
+     Alpha: 2.3739  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "37".
+     Inflow (cu m): 332.8425  Precip excess (cu m): 95.4029
+     Outflow (cu m): 431.3773  Storage (cu m): 0.0033
+     Percent error: -0.7321
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "38".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "38".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "38".
+     Alpha: 2.3739  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "38".
+     Inflow (cu m): 431.3773  Precip excess (cu m): 85.9519
+     Outflow (cu m): 520.8808  Storage (cu m): 0.004
+     Percent error: -0.6873
+NOTE 40679:  Parameters for kinematic wave plane 1 for subbasin "64".
+     Alpha: 12.8565  m: 1.6667
+NOTE 40679:  Parameters for kinematic wave plane 2 for subbasin "64".
+     Alpha: 7.0711  m: 1.6667
+NOTE 40680:  Parameters for kinematic wave channel 3 for subbasin "64".
+     Alpha: 2.3739  m: 1.5697
+NOTE 40681:  Kinematic wave volume check for subbasin "64".
+     Inflow (cu m): 520.8808  Precip excess (cu m): 75.3062
+     Outflow (cu m): 599.9083  Storage (cu m): 0.0039
+     Percent error: -0.6249
+NOTE 15302:  Finished computing simulation run "PostDevelopment" at time 15Jun2023, 20:25:16.
+NOTE 15312:  The total runtime for this simulation is 00:08.

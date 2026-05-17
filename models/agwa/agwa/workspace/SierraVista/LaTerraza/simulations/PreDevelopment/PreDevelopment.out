@@ -1,0 +1,1577 @@
+ KINEROS2 LID Version Compiled 12-Jul-2013 with Intel Fortran 11.1      
+
+ Title:  K2 Urban Simulation
+
+ Parameter File Used....... PreDevelopment.par
+ Rainfall File Used........ 100yr2hr25ts_SCST2.pre
+
+ Length of Run, minutes.... 320
+ Time Step, minutes........ 1
+ Use Courant criteria?..... N
+ Simulate Sed. Transport?.. N
+ Multiplier file (if any).. N
+ Tabular Summary?.......... N
+
+ Multipliers Used:
+
+ Saturated Conductivity... 1.0                 
+ Manning n................ 1.0                 
+ CV of Ksat............... 1.0                 
+ Capillary Drive Coeff.... 1.0                 
+ Intercepted Depth........ 1.0                 
+ Sediment Cohesion Coeff.. 1.0                 
+ Sediment Splash Coeff.... 1.0                 
+
+ 
+ Urban Element     24
+ 
+ Contributing area = 0.2208711 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.1188081 cu m /s (193.6465 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   158.8862 cu m    71.93615 mm
+ Inflow:     0.0000 cu m     0.00000 mm 
+ Infilt:    40.0108 cu m    18.11498 mm   
+ Stored:     0.0000 cu m     0.00000 mm
+    Out:   118.7242 cu m    53.75269 mm 
+  Error:       0.10 %
+ 
+ 
+ 
+ Urban Element     61
+ 
+ Contributing area = 0.4195988 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.2245260 cu m /s (192.6349 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   142.4444 cu m    71.67818 mm
+ Inflow:   118.7242 cu m    28.29469 mm*
+ Infilt:    42.7949 cu m    21.53443 mm   
+ Stored:     0.0060 cu m     0.00301 mm
+    Out:   218.4317 cu m    52.05727 mm*
+  Error:      -0.02 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     23
+ 
+ Contributing area = 0.6183264 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.3302148 cu m /s (192.2566 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   142.4444 cu m     71.6782 mm
+ Inflow:   218.4315 cu m     35.3262 mm*
+ Infilt:    42.7949 cu m     21.5344 mm   
+ Stored:     0.0061 cu m      0.0031 mm
+    Out:   318.1390 cu m     51.4516 mm*
+  Error:      -0.02 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     58
+ 
+ Contributing area = 0.1845029 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.0982936 cu m /s (191.7894 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   132.2760 cu m    71.69315 mm
+ Inflow:     0.0000 cu m     0.00000 mm*
+ Infilt:    39.2712 cu m    21.28487 mm   
+ Stored:     0.0063 cu m     0.00341 mm
+    Out:    93.0735 cu m    50.44552 mm*
+  Error:      -0.06 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     22
+ 
+ Contributing area = 0.8170227 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.4358548 cu m /s (192.0482 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   142.4220 cu m     71.6782 mm
+ Inflow:   318.1388 cu m     38.9388 mm*
+ Infilt:    42.7871 cu m     21.5339 mm   
+ Stored:     0.0062 cu m      0.0031 mm
+    Out:   417.8298 cu m     51.1405 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     56
+ 
+ Contributing area = 0.1792616 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.0909926 cu m /s (182.7348 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   128.5771 cu m    71.72599 mm
+ Inflow:     0.0000 cu m     0.00000 mm*
+ Infilt:    50.9452 cu m    28.41948 mm   
+ Stored:     0.0008 cu m     0.00042 mm
+    Out:    77.7687 cu m    43.38279 mm*
+  Error:      -0.11 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     65
+ 
+ Contributing area = 0.1929147 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.1027538 cu m /s (191.7498 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.2791 cu m    71.67886 mm
+ Inflow:     0.0000 cu m     0.00000 mm*
+ Infilt:    41.1297 cu m    21.32015 mm   
+ Stored:     0.0000 cu m     0.00000 mm
+    Out:    97.0191 cu m    50.29117 mm*
+  Error:       0.09 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element      5
+ 
+ Contributing area = 0.3685860 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.1964352 cu m /s (191.8594 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   132.0189 cu m    71.71698 mm
+ Inflow:    93.0733 cu m    25.25144 mm*
+ Infilt:    38.4390 cu m    20.88134 mm   
+ Stored:     0.0003 cu m     0.00014 mm
+    Out:   186.5466 cu m    50.61142 mm*
+  Error:       0.05 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     21
+ 
+ Contributing area = 1.015719 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.5414671 cu m /s (191.9115 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   142.4220 cu m     71.6782 mm
+ Inflow:   417.8295 cu m     41.1363 mm*
+ Infilt:    42.7871 cu m     21.5339 mm   
+ Stored:     0.0063 cu m      0.0032 mm
+    Out:   517.5250 cu m     50.9516 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     55
+ 
+ Contributing area = 0.3710795 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.1880496 cu m /s (182.4349 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   137.5256 cu m    71.69592 mm
+ Inflow:    77.7685 cu m    20.95737 mm*
+ Infilt:    55.5234 cu m    28.94590 mm   
+ Stored:     0.0010 cu m     0.00050 mm
+    Out:   159.9178 cu m    43.09530 mm*
+  Error:      -0.07 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element      6
+ 
+ Contributing area = 0.3861530 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.2056470 cu m /s (191.7191 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.5093 cu m    71.67799 mm
+ Inflow:    97.0191 cu m    25.12452 mm*
+ Infilt:    41.2201 cu m    21.33124 mm   
+ Stored:     0.0000 cu m     0.00000 mm
+    Out:   194.1769 cu m    50.28498 mm*
+  Error:       0.06 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     12
+ 
+ Contributing area = 0.2408089 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.1275491 cu m /s (190.6811 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   172.4820 cu m    71.62610 mm
+ Inflow:     0.0000 cu m     0.00000 mm*
+ Infilt:    53.9409 cu m    22.39988 mm   
+ Stored:     0.0000 cu m     0.00000 mm
+    Out:   118.3811 cu m    49.15978 mm*
+  Error:       0.09 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element      4
+ 
+ Contributing area = 0.5428993 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.2888731 cu m /s (191.5536 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   124.8105 cu m     71.6012 mm
+ Inflow:   186.5465 cu m     34.3612 mm*
+ Infilt:    39.2408 cu m     22.5116 mm   
+ Stored:     0.0054 cu m      0.0031 mm
+    Out:   272.1751 cu m     50.1336 mm*
+  Error:      -0.02 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     57
+ 
+ Contributing area = 0.2864057 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.1533265 cu m /s (192.7250 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   205.6967 cu m    71.82004 mm
+ Inflow:     0.0000 cu m     0.00000 mm*
+ Infilt:    56.1429 cu m    19.60258 mm   
+ Stored:     0.0000 cu m     0.00000 mm
+    Out:   149.3944 cu m    52.16183 mm*
+  Error:       0.08 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     20
+ 
+ Contributing area = 1.214415 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.6470627 cu m /s (191.8146 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   142.4220 cu m     71.6782 mm
+ Inflow:   517.5243 cu m     42.6151 mm*
+ Infilt:    42.7871 cu m     21.5339 mm   
+ Stored:     0.0064 cu m      0.0032 mm
+    Out:   617.2166 cu m     50.8242 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     47
+ 
+ Contributing area = 0.5635121 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.2852262 cu m /s (182.2169 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   137.9353 cu m    71.67981 mm
+ Inflow:   159.9175 cu m    28.37872 mm*
+ Infilt:    56.2450 cu m    29.22842 mm   
+ Stored:     0.0011 cu m     0.00056 mm
+    Out:   241.7515 cu m    42.90084 mm*
+  Error:      -0.05 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     54
+ 
+ Contributing area = 0.1865918 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.0938991 cu m /s (181.1638 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   133.7678 cu m    71.69007 mm
+ Inflow:     0.0000 cu m     0.00000 mm*
+ Infilt:    54.9082 cu m    29.42692 mm   
+ Stored:     0.0003 cu m     0.00014 mm
+    Out:    78.9398 cu m    42.30615 mm*
+  Error:      -0.06 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     53
+ 
+ Contributing area = 0.2026986 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.1025395 cu m /s (182.1138 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   145.4306 cu m    71.74724 mm
+ Inflow:     0.0000 cu m     0.00000 mm*
+ Infilt:    57.5179 cu m    28.37607 mm   
+ Stored:     0.0007 cu m     0.00034 mm
+    Out:    88.0399 cu m    43.43392 mm*
+  Error:      -0.09 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element      7
+ 
+ Contributing area = 0.5793912 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.3085157 cu m /s (191.6937 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.5093 cu m     71.6780 mm
+ Inflow:   194.1769 cu m     33.5140 mm*
+ Infilt:    41.2201 cu m     21.3312 mm   
+ Stored:     0.0000 cu m      0.0000 mm
+    Out:   291.3347 cu m     50.2829 mm*
+  Error:       0.04 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     11
+ 
+ Contributing area = 0.4339862 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.2301445 cu m /s (190.9094 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.4657 cu m    71.67805 mm
+ Inflow:   118.3811 cu m    27.27763 mm*
+ Infilt:    41.7882 cu m    21.63205 mm   
+ Stored:     0.0000 cu m     0.00000 mm
+    Out:   214.9081 cu m    49.51958 mm*
+  Error:       0.06 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element      3
+ 
+ Contributing area = 0.7252123 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.3857512 cu m /s (191.4894 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   130.6293 cu m     71.6511 mm
+ Inflow:   272.1748 cu m     37.5304 mm*
+ Infilt:    39.8303 cu m     21.8472 mm   
+ Stored:     0.0009 cu m      0.0005 mm
+    Out:   363.0548 cu m     50.0619 mm*
+  Error:      -0.02 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element      1
+ 
+ Contributing area = 0.5216341 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.2782763 cu m /s (192.0493 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   168.4946 cu m    71.63021 mm
+ Inflow:   149.3944 cu m    28.63969 mm*
+ Infilt:    51.9276 cu m    22.07539 mm   
+ Stored:     0.0079 cu m     0.00338 mm
+    Out:   266.0154 cu m    50.99656 mm*
+  Error:      -0.02 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     19
+ 
+ Contributing area = 1.413112 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.7526503 cu m /s (191.7429 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   142.4220 cu m     71.6782 mm
+ Inflow:   617.2159 cu m     43.6778 mm*
+ Infilt:    42.7871 cu m     21.5339 mm   
+ Stored:     0.0065 cu m      0.0033 mm
+    Out:   716.9085 cu m     50.7326 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     33
+ 
+ Contributing area = 0.1931493 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.0976105 cu m /s (181.9307 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.4459 cu m    71.67818 mm
+ Inflow:     0.0000 cu m     0.00000 mm*
+ Infilt:    56.5752 cu m    29.29089 mm   
+ Stored:     0.0007 cu m     0.00034 mm
+    Out:    82.0032 cu m    42.45586 mm*
+  Error:      -0.10 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     66
+ 
+ Contributing area = 0.7567503 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.3827278 cu m /s (182.0706 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.5093 cu m     71.6780 mm
+ Inflow:   241.7511 cu m     31.9460 mm*
+ Infilt:    56.5418 cu m     29.2602 mm   
+ Stored:     0.0012 cu m      0.0006 mm
+    Out:   323.8662 cu m     42.7970 mm*
+  Error:      -0.04 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     48
+ 
+ Contributing area = 0.3685632 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.1853999 cu m /s (181.0924 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   130.4631 cu m    71.69428 mm
+ Inflow:    78.9397 cu m    21.41823 mm*
+ Infilt:    53.4106 cu m    29.35112 mm   
+ Stored:     0.0005 cu m     0.00030 mm
+    Out:   156.0762 cu m    42.34720 mm*
+  Error:      -0.04 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     32
+ 
+ Contributing area = 0.3914126 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.1974809 cu m /s (181.6322 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   135.2994 cu m    71.69549 mm
+ Inflow:    88.0399 cu m    22.49286 mm*
+ Infilt:    55.3443 cu m    29.32708 mm   
+ Stored:     0.0006 cu m     0.00030 mm
+    Out:   168.0796 cu m    42.94179 mm*
+  Error:      -0.04 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element      8
+ 
+ Contributing area = 0.7726294 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.4113590 cu m /s (191.6691 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.5093 cu m     71.6780 mm
+ Inflow:   291.3347 cu m     37.7069 mm*
+ Infilt:    41.2201 cu m     21.3312 mm   
+ Stored:     0.0000 cu m      0.0000 mm
+    Out:   388.4927 cu m     50.2819 mm*
+  Error:       0.03 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     10
+ 
+ Contributing area = 0.6271635 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.3326909 cu m /s (190.9689 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.4657 cu m     71.6780 mm
+ Inflow:   214.9081 cu m     34.2667 mm*
+ Infilt:    41.7882 cu m     21.6320 mm   
+ Stored:     0.0000 cu m      0.0000 mm
+    Out:   311.4354 cu m     49.6578 mm*
+  Error:       0.04 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     59
+ 
+ Contributing area = 0.2423734 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.1300393 cu m /s (193.1489 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   174.2554 cu m    71.89544 mm
+ Inflow:     0.0000 cu m     0.00000 mm*
+ Infilt:    45.6302 cu m    18.82641 mm   
+ Stored:     0.0009 cu m     0.00036 mm
+    Out:   128.6875 cu m    53.09472 mm*
+  Error:      -0.04 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element      2
+ 
+ Contributing area = 1.501951 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.8010528 cu m /s (192.0029 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   183.6173 cu m     71.9772 mm
+ Inflow:   629.0729 cu m     41.8837 mm*
+ Infilt:    44.8685 cu m     17.5883 mm   
+ Stored:     0.0016 cu m      0.0006 mm
+    Out:   767.6888 cu m     51.1128 mm*
+  Error:       0.02 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     60
+ 
+ Contributing area = 1.611808 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.8582274 cu m /s (191.6865 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   142.4220 cu m     71.6782 mm
+ Inflow:   716.9077 cu m     44.4785 mm*
+ Infilt:    42.7871 cu m     21.5339 mm   
+ Stored:     0.0066 cu m      0.0033 mm
+    Out:   816.6011 cu m     50.6637 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     34
+ 
+ Contributing area = 0.3863291 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.1951502 cu m /s (181.8503 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.4677 cu m    71.67814 mm
+ Inflow:    82.0031 cu m    21.22623 mm*
+ Infilt:    56.5855 cu m    29.29164 mm   
+ Stored:     0.0008 cu m     0.00041 mm
+    Out:   164.0177 cu m    42.45544 mm*
+  Error:      -0.06 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     46
+ 
+ Contributing area = 0.9499886 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.4801671 cu m /s (181.9602 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.5093 cu m     71.6780 mm
+ Inflow:   323.8659 cu m     34.0916 mm*
+ Infilt:    56.5418 cu m     29.2602 mm   
+ Stored:     0.0013 cu m      0.0007 mm
+    Out:   405.9771 cu m     42.7349 mm*
+  Error:      -0.03 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     49
+ 
+ Contributing area = 0.5589077 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.2808249 cu m /s (180.8831 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   136.4429 cu m    71.68204 mm
+ Inflow:   156.0761 cu m    27.92521 mm*
+ Infilt:    56.2471 cu m    29.55015 mm   
+ Stored:     0.0006 cu m     0.00030 mm
+    Out:   236.2912 cu m    42.27732 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     31
+ 
+ Contributing area = 0.5825813 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.2934157 cu m /s (181.3131 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   137.0316 cu m    71.68096 mm
+ Inflow:   168.0796 cu m    28.85083 mm*
+ Infilt:    56.5286 cu m    29.57001 mm   
+ Stored:     0.0006 cu m     0.00030 mm
+    Out:   248.6022 cu m    42.67253 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     43
+ 
+ Contributing area = 0.9658677 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.5141770 cu m /s (191.6450 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.5093 cu m     71.6780 mm
+ Inflow:   388.4927 cu m     40.2221 mm*
+ Infilt:    41.2201 cu m     21.3312 mm   
+ Stored:     0.0000 cu m      0.0000 mm
+    Out:   485.6509 cu m     50.2813 mm*
+  Error:       0.02 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element      9
+ 
+ Contributing area = 0.8203408 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.4351539 cu m /s (190.9638 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.4657 cu m     71.6780 mm
+ Inflow:   311.4353 cu m     37.9641 mm*
+ Infilt:    41.7882 cu m     21.6320 mm   
+ Stored:     0.0000 cu m      0.0000 mm
+    Out:   407.9626 cu m     49.7309 mm*
+  Error:       0.03 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     13
+ 
+ Contributing area = 2.002138 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 1.069410 cu m /s (192.2883 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   185.5779 cu m     71.9814 mm
+ Inflow:   896.3733 cu m     44.7708 mm*
+ Infilt:    45.6755 cu m     17.7165 mm   
+ Stored:     0.0090 cu m      0.0035 mm
+    Out:  1036.3313 cu m     51.7612 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     18
+ 
+ Contributing area = 1.832554 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.9764531 cu m /s (191.8215 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   158.7955 cu m     71.9360 mm
+ Inflow:   816.6005 cu m     44.5608 mm*
+ Infilt:    39.9924 cu m     18.1170 mm   
+ Stored:     0.0016 cu m      0.0007 mm
+    Out:   935.2532 cu m     51.0355 mm*
+  Error:       0.02 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     35
+ 
+ Contributing area = 0.5795090 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.2926148 cu m /s (181.7769 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.4677 cu m    71.67814 mm
+ Inflow:   164.0177 cu m    28.30288 mm*
+ Infilt:    56.5855 cu m    29.29164 mm   
+ Stored:     0.0009 cu m     0.00046 mm
+    Out:   246.0336 cu m    42.45554 mm*
+  Error:      -0.04 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     45
+ 
+ Contributing area = 1.143227 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0676   0.2000
+  estimated wilting point water content = 0.0788   0.1196
+  estimated field capacity =              0.1450   0.3601
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.5795624 cu m /s (182.5031 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.5093 cu m     71.6780 mm
+ Inflow:   405.9767 cu m     35.5115 mm*
+ Infilt:    51.6679 cu m     26.7379 mm   
+ Stored:     0.0007 cu m      0.0004 mm
+    Out:   492.8265 cu m     43.1084 mm*
+  Error:      -0.00 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     50
+ 
+ Contributing area = 0.7520241 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.3773112 cu m /s (180.6219 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.4222 cu m     71.6781 mm
+ Inflow:   236.2932 cu m     31.4210 mm*
+ Infilt:    57.2047 cu m     29.6219 mm   
+ Stored:     0.0006 cu m      0.0003 mm
+    Out:   317.5216 cu m     42.2223 mm*
+  Error:      -0.00 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     30
+ 
+ Contributing area = 0.7879796 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.3960745 cu m /s (180.9524 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   147.1929 cu m     71.6622 mm
+ Inflow:   248.6000 cu m     31.5490 mm*
+ Infilt:    61.4161 cu m     29.9010 mm   
+ Stored:     0.0002 cu m      0.0001 mm
+    Out:   334.3282 cu m     42.4285 mm*
+  Error:       0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     44
+ 
+ Contributing area = 1.159106 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.6169720 cu m /s (191.6218 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.5093 cu m     71.6780 mm
+ Inflow:   485.6508 cu m     41.8987 mm*
+ Infilt:    41.2201 cu m     21.3312 mm   
+ Stored:     0.0000 cu m      0.0000 mm
+    Out:   582.8088 cu m     50.2809 mm*
+  Error:       0.02 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     62
+ 
+ Contributing area = 1.013518 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.5374870 cu m /s (190.9145 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.4657 cu m     71.6780 mm
+ Inflow:   407.9629 cu m     40.2522 mm*
+ Infilt:    41.7882 cu m     21.6320 mm   
+ Stored:     0.0000 cu m      0.0000 mm
+    Out:   504.4906 cu m     49.7762 mm*
+  Error:       0.03 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     14
+ 
+ Contributing area = 2.249703 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 1.201547 cu m /s (192.2729 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:    177.830 cu m     71.8316 mm
+ Inflow:   1036.330 cu m     46.0652 mm*
+ Infilt:     48.161 cu m     19.4539 mm   
+ Stored:      0.002 cu m      0.0006 mm
+    Out:   1165.861 cu m     51.8229 mm*
+  Error:       0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     17
+ 
+ Contributing area = 2.042763 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0798   0.2000
+  estimated wilting point water content = 0.1089   0.1446
+  estimated field capacity =              0.1971   0.4238
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 1.079270 cu m /s (190.2018 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   151.2410 cu m     71.9476 mm
+ Inflow:   935.2531 cu m     45.7837 mm*
+ Infilt:    59.3662 cu m     28.2414 mm   
+ Stored:     0.0015 cu m      0.0007 mm
+    Out:  1027.1377 cu m     50.2818 mm*
+  Error:      -0.00 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     36
+ 
+ Contributing area = 0.7727192 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.3900306 cu m /s (181.7103 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   138.4894 cu m     71.6781 mm
+ Inflow:   246.0332 cu m     31.8399 mm*
+ Infilt:    56.5959 cu m     29.2924 mm   
+ Stored:     0.0010 cu m      0.0005 mm
+    Out:   328.0587 cu m     42.4551 mm*
+  Error:      -0.03 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     51
+ 
+ Contributing area = 2.156065 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 1.087029 cu m /s (181.5021 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   187.6871 cu m     71.9620 mm
+ Inflow:   810.3479 cu m     37.5846 mm*
+ Infilt:    63.9778 cu m     24.5300 mm   
+ Stored:     0.0029 cu m      0.0011 mm
+    Out:   934.1762 cu m     43.3278 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     63
+ 
+ Contributing area = 1.012582 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.5076542 cu m /s (180.4847 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   160.9068 cu m     71.6409 mm
+ Inflow:   334.3282 cu m     33.0174 mm*
+ Infilt:    68.2410 cu m     30.3831 mm   
+ Stored:     0.0010 cu m      0.0004 mm
+    Out:   427.0770 cu m     42.1770 mm*
+  Error:      -0.02 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     52
+ 
+ Contributing area = 2.421782 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0640   0.2000
+  estimated wilting point water content = 0.0796   0.1488
+  estimated field capacity =              0.1414   0.3831
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 1.286615 cu m /s (191.2564 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:    179.414 cu m     72.0082 mm
+ Inflow:   1087.300 cu m     44.8967 mm*
+ Infilt:     43.571 cu m     17.4872 mm   
+ Stored:      0.000 cu m      0.0000 mm
+    Out:   1223.052 cu m     50.5022 mm*
+  Error:       0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     15
+ 
+ Contributing area = 2.468081 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0638   0.2000
+  estimated wilting point water content = 0.0794   0.1493
+  estimated field capacity =              0.1408   0.3827
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 1.317067 cu m /s (192.1105 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:    156.462 cu m     71.6472 mm
+ Inflow:   1165.860 cu m     47.2375 mm*
+ Infilt:     47.955 cu m     21.9597 mm   
+ Stored:      0.001 cu m      0.0007 mm
+    Out:   1274.445 cu m     51.6371 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     42
+ 
+ Contributing area = 2.235882 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0814   0.2000
+  estimated wilting point water content = 0.1122   0.1441
+  estimated field capacity =              0.2030   0.4272
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 1.169523 cu m /s (188.3052 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:    138.424 cu m     71.6782 mm
+ Inflow:   1027.140 cu m     45.9389 mm*
+ Infilt:     67.005 cu m     34.6960 mm   
+ Stored:      0.009 cu m      0.0048 mm
+    Out:   1098.727 cu m     49.1406 mm*
+  Error:      -0.02 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     37
+ 
+ Contributing area = 0.9868503 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0696   0.2000
+  estimated wilting point water content = 0.0792   0.1073
+  estimated field capacity =              0.1476   0.3500
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 0.4983884 cu m /s (181.8106 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:   153.6150 cu m     71.7388 mm
+ Inflow:   328.0583 cu m     33.2430 mm*
+ Infilt:    60.4443 cu m     28.2277 mm   
+ Stored:     0.0014 cu m      0.0006 mm
+    Out:   421.3854 cu m     42.7000 mm*
+  Error:      -0.03 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     29
+ 
+ Contributing area = 3.506813 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0730   0.2000
+  estimated wilting point water content = 0.0880   0.1174
+  estimated field capacity =              0.1629   0.3730
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 1.744199 cu m /s (179.0548 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:    243.554 cu m     72.0220 mm
+ Inflow:   1361.259 cu m     38.8175 mm*
+ Infilt:     83.868 cu m     24.8010 mm   
+ Stored:      0.004 cu m      0.0011 mm
+    Out:   1520.938 cu m     43.3709 mm*
+  Error:       0.00 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     25
+ 
+ Contributing area = 2.665890 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0722   0.2000
+  estimated wilting point water content = 0.0952   0.1494
+  estimated field capacity =              0.1712   0.4104
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 1.409008 cu m /s (190.2715 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:    174.879 cu m     71.6402 mm
+ Inflow:   1223.051 cu m     45.8778 mm*
+ Infilt:     70.993 cu m     29.0827 mm   
+ Stored:      0.000 cu m      0.0000 mm
+    Out:   1326.946 cu m     49.7750 mm*
+  Error:      -0.00 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     16
+ 
+ Contributing area = 2.714888 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0660   0.2000
+  estimated wilting point water content = 0.0837   0.1500
+  estimated field capacity =              0.1491   0.3921
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 1.445617 cu m /s (191.6919 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:    176.763 cu m     71.6199 mm
+ Inflow:   1274.444 cu m     46.9428 mm*
+ Infilt:     60.243 cu m     24.4089 mm   
+ Stored:      0.009 cu m      0.0038 mm
+    Out:   1391.046 cu m     51.2377 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     41
+ 
+ Contributing area = 2.428849 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0814   0.2000
+  estimated wilting point water content = 0.1122   0.1441
+  estimated field capacity =              0.2030   0.4272
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 1.258827 cu m /s (186.5813 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:    138.315 cu m     71.6784 mm
+ Inflow:   1098.726 cu m     45.2365 mm*
+ Infilt:     66.943 cu m     34.6916 mm   
+ Stored:      0.009 cu m      0.0049 mm
+    Out:   1170.265 cu m     48.1819 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     38
+ 
+ Contributing area = 4.716483 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0766   0.2000
+  estimated wilting point water content = 0.0981   0.1290
+  estimated field capacity =              0.1800   0.3974
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 2.337116 cu m /s (178.3875 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:    159.804 cu m     71.7192 mm
+ Inflow:   1942.330 cu m     41.1818 mm*
+ Infilt:     70.892 cu m     31.8160 mm   
+ Stored:      0.002 cu m      0.0008 mm
+    Out:   2031.236 cu m     43.0668 mm*
+  Error:       0.00 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     27
+ 
+ Contributing area = 2.863351 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0814   0.2000
+  estimated wilting point water content = 0.1122   0.1441
+  estimated field capacity =              0.2030   0.4272
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 1.500828 cu m /s (188.6943 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:    141.565 cu m     71.6923 mm
+ Inflow:   1326.946 cu m     46.3424 mm*
+ Infilt:     68.015 cu m     34.4446 mm   
+ Stored:      0.001 cu m      0.0004 mm
+    Out:   1400.644 cu m     48.9163 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     26
+ 
+ Contributing area = 2.931419 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0808   0.2000
+  estimated wilting point water content = 0.1111   0.1443
+  estimated field capacity =              0.2009   0.4263
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 1.547163 cu m /s (190.0031 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:    155.434 cu m     71.7838 mm
+ Inflow:   1391.045 cu m     47.4530 mm*
+ Infilt:     69.886 cu m     32.2754 mm   
+ Stored:      0.010 cu m      0.0048 mm
+    Out:   1476.763 cu m     50.3771 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     40
+ 
+ Contributing area = 2.616358 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0814   0.2000
+  estimated wilting point water content = 0.1122   0.1441
+  estimated field capacity =              0.2030   0.4272
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 1.344423 cu m /s (184.9870 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:    134.445 cu m     71.7003 mm
+ Inflow:   1170.264 cu m     44.7287 mm*
+ Infilt:     64.198 cu m     34.2372 mm   
+ Stored:      0.010 cu m      0.0051 mm
+    Out:   1240.672 cu m     47.4198 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     64
+ 
+ Contributing area = 4.916009 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0814   0.2000
+  estimated wilting point water content = 0.1122   0.1441
+  estimated field capacity =              0.2030   0.4272
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 2.416341 cu m /s (176.9489 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:    143.051 cu m      71.695 mm
+ Inflow:   2031.243 cu m      41.319 mm*
+ Infilt:     68.675 cu m      34.419 mm   
+ Stored:      0.002 cu m       0.001 mm
+    Out:   2105.755 cu m      42.835 mm*
+  Error:      -0.01 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     28
+ 
+ Contributing area = 6.178064 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0814   0.2000
+  estimated wilting point water content = 0.1122   0.1441
+  estimated field capacity =              0.2030   0.4272
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 3.202525 cu m /s (186.6133 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:    275.600 cu m     71.9028 mm
+ Inflow:   2877.413 cu m     46.5747 mm*
+ Infilt:    115.330 cu m     30.0892 mm   
+ Stored:      0.004 cu m      0.0011 mm
+    Out:   3037.714 cu m     49.1693 mm*
+  Error:      -0.00 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Urban Element     39
+ 
+ Contributing area = 2.921986 ha
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0814   0.2000
+  estimated wilting point water content = 0.1122   0.1441
+  estimated field capacity =              0.2030   0.4272
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 1.483099 cu m /s (182.7236 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:    218.505 cu m     71.4938 mm
+ Inflow:   1240.672 cu m     42.4599 mm*
+ Infilt:    118.650 cu m     38.8219 mm   
+ Stored:      0.002 cu m      0.0006 mm
+    Out:   1340.770 cu m     45.8856 mm*
+  Error:      -0.02 %                 [*: based on contributing area]
+ 
+ 
+ 
+ Adder Element   67  
+ 
+ Contributing area = 14.01606 ha
+ 
+ 
+ Peak flow = 7.101965 cu m /s (182.4127 mm/hr) at 65.0 min 
+ 
+             Water balance
+ --------------------------------------
+   Rain:      0.000 cu m        **** mm
+ Inflow:   6484.230 cu m  46.2628632 mm*
+ Infilt:      0.000 cu m   0.0000000 mm   
+ Stored:      0.000 cu m   0.0000000 mm
+    Out:   6484.230 cu m  46.2628632 mm*
+  Error:       0.00 %                 [*: based on contributing area]
+ 
+ 
+ 
+  67 elements Processed
+
+ Event Volume Summary:
+ 
+             Rainfall    73.40999 mm       10289.19 cu m 
+   Plane infiltration    25.48276           3571.68
+         Interception     1.67651            234.98
+              Storage     0.00117              0.16
+              Outflow    46.26286           6484.23
+ 
+ Error (Volume in - Volume out - Storage) < 1 percent
+ 
+ Time step distribution (100,75,50%) = 0.00474, 0.00775, 0.04000 min
+ 
+ Total watershed area = 14.01606 ha
+ 

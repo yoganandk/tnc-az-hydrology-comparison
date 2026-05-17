@@ -1,0 +1,34 @@
+Project: LaTerraza
+     Description: 
+     Version: 4.10
+     Filepath Separator: \
+     DSS File Name: LaTerraza.dss
+     Time Zone ID: GMT-07:00
+End:
+
+Precipitation: 100yr2hr_FS
+     Filename: 100yr2hr_FS.met
+     Description: 
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 05:02
+End:
+
+Basin: LaTerraza - PostDevelopment
+     Filename: LaTerraza___PostDevelopment.basin
+     Description: 
+     Last Modified Date: 18 June 2023
+     Last Modified Time: 05:43:28
+End:
+
+Basin: LaTerraza - PreDevelopment
+     Filename: LaTerraza___PreDevelopment.basin
+     Description: 
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 05:07
+End:
+
+Control: SIM1
+     FileName: SIM1.control
+     Description: 
+End:
+

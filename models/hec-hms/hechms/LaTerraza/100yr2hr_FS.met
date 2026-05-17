@@ -1,0 +1,368 @@
+Meteorology: 100yr2hr_FS
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 05:02:06
+     Version: 4.10
+     Unit System: English
+     Set Missing Data to Default: No
+     Precipitation Method: Frequency Based Hypothetical
+     Air Temperature Method: None
+     Atmospheric Pressure Method: None
+     Dew Point Method: None
+     Wind Speed Method: None
+     Shortwave Radiation Method: None
+     Longwave Radiation Method: None
+     Snowmelt Method: None
+     Evapotranspiration Method: No Evapotranspiration
+     Use Basin Model: LaTerraza - PostDevelopment
+     Use Basin Model: LaTerraza - PreDevelopment
+End:
+
+Precip Method Parameters: Frequency Based Hypothetical
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+     Storm Type: Hydro-35/TP-40/TP-49
+     Single Hypothetical Storm Size: Yes
+     Convert From Annual Series: Yes
+     Convert to Annual Series: Yes
+     Uniform Depth Duration Curve: Yes
+     User Specified Storm Area: No
+     Storm Size: 
+     Total Duration: 120
+     Time Interval: 5
+     Percent of Duration Before Peak Rainfall: 50
+     Depth-Area Reduction Method: No Reduction
+     Depth: 0.80
+     Depth: 1.51
+     Depth: 2.52
+     Depth: 2.89
+End:
+
+Subbasin: 44
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 45
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 46
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 47
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 48
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 49
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 50
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 51
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 52
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 53
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 54
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 10
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 55
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 11
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 56
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 12
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 57
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 13
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 58
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 14
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 59
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 15
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 16
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 17
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 18
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 19
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 1
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 2
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 3
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 4
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 5
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 6
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 7
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 8
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 9
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 60
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 61
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 62
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 63
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 20
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 64
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 21
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 65
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 22
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 66
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 23
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 24
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 25
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 26
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 27
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 28
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 29
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 30
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 31
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 32
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 33
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 34
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 35
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 36
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 37
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 38
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 39
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 40
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 41
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 42
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:
+
+Subbasin: 43
+     Last Modified Date: 11 June 2023
+     Last Modified Time: 04:21:01
+End:

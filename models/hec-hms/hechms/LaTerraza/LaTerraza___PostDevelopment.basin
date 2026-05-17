@@ -1,0 +1,5775 @@
+Basin: LaTerraza - PostDevelopment
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 05:01:58
+     Version: 4.10
+     Filepath Separator: \
+     Unit System: Metric
+     Missing Flow To Zero: No
+     Enable Flow Ratio: No
+     Compute Local Flow At Junctions: No
+     Unregulated Output Required: No
+
+     Enable Sediment Routing: No
+
+     Enable Quality Routing: No
+End:
+
+Subbasin: 57
+     Last Modified Date: 18 June 2023
+     Last Modified Time: 05:43:28
+     Latitude Degrees:  31.506947888410377
+     Longitude Degrees: -110.2754745339418
+     Canvas X: 568799.8188163628
+     Canvas Y: 3486014.0458902423
+     Area: 0.00228
+     Downstream: 1
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 32.959
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 25
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 32.959
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 75
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 69.0804
+     Channel Slope: 0.0200
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+
+     Baseflow: None
+End:
+
+Subbasin: 1
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 05:33:20
+     Latitude Degrees:  31.506577792052447
+     Longitude Degrees: -110.27561868955824
+     Canvas X: 568786.4007322402
+     Canvas Y: 3485972.9347213833
+     Area: 0.00209
+     Downstream: 2
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 68.699
+     Plane 1 Slope: 0.050
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 22
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 68.699
+     Plane 2 Slope: 0.050
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 78
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4710
+     Channel Slope: 0.0090
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 58
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 05:17:08
+     Latitude Degrees:  31.505616365107805
+     Longitude Degrees: -110.27641987159348
+     Canvas X: 568711.0228930047
+     Canvas Y: 3485865.8697581473
+     Area: 0.00158
+     Downstream: 5
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 51.544
+     Plane 1 Slope: 0.037
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 30
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 51.544
+     Plane 2 Slope: 0.037
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 70
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.7324
+     Channel Slope: 0.0170
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+
+     Baseflow: None
+End:
+
+Subbasin: 5
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.505857711541847
+     Longitude Degrees: -110.27624806634094
+     Canvas X: 568727.1612880373
+     Canvas Y: 3485892.7277789055
+     Area: 0.00156
+     Downstream: 4
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 46.884
+     Plane 1 Slope: 0.037
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 30
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 46.884
+     Plane 2 Slope: 0.037
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 70
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 33.2365
+     Channel Slope: 0.0170
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 4
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.506152220016475
+     Longitude Degrees: -110.2760876657635
+     Canvas X: 568742.1776839559
+     Canvas Y: 3485925.4710447746
+     Area: 0.00158
+     Downstream: 3
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 80.390
+     Plane 1 Slope: 0.037
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 31
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 80.390
+     Plane 2 Slope: 0.037
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 69
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 19.6106
+     Channel Slope: 0.0170
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+
+     Baseflow: None
+End:
+
+Subbasin: 3
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.506236430645057
+     Longitude Degrees: -110.27577407816501
+     Canvas X: 568771.8947962562
+     Canvas Y: 3485935.0014490834
+     Area: 0.00160
+     Downstream: J1
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 61.996
+     Plane 1 Slope: 0.037
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 31
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 61.996
+     Plane 2 Slope: 0.037
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 69
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 25.8616
+     Channel Slope: 0.0170
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 2
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.506201111262886
+     Longitude Degrees: -110.27543235870604
+     Canvas X: 568804.3708572725
+     Canvas Y: 3485931.3011384374
+     Area: 0.00183
+     Downstream: J1
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 21.474
+     Plane 1 Slope: 0.037
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 21
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 21.474
+     Plane 2 Slope: 0.037
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 79
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 85.1223
+     Channel Slope: 0.0170
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 59
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.505509716095947
+     Longitude Degrees: -110.27576906737916
+     Canvas X: 568772.9027211047
+     Canvas Y: 3485854.4570794622
+     Area: 0.00184
+     Downstream: J1
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 26.520
+     Plane 1 Slope: 0.005
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 28
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 26.520
+     Plane 2 Slope: 0.005
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 72
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 69.2091
+     Channel Slope: 0.0170
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+
+     Baseflow: None
+End:
+
+Junction: J1
+     Last Modified Date: 8 June 2023
+     Last Modified Time: 07:23:31
+     Canvas X: 568806.1394220043
+     Canvas Y: 3485895.535792591
+     From Canvas X: 568806.1394220043
+     From Canvas Y: 3485895.535792591
+     Downstream: 13
+End:
+
+Subbasin: 13
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50553529160315
+     Longitude Degrees: -110.27542496532645
+     Canvas X: 568805.5606820185
+     Canvas Y: 3485857.5077246693
+     Area: 0.00184
+     Downstream: 14
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 21.253
+     Plane 1 Slope: 0.005
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 27
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 21.253
+     Plane 2 Slope: 0.005
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 73
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 86.6623
+     Channel Slope: 0.0170
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 14
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.504883048417305
+     Longitude Degrees: -110.27544782095542
+     Canvas X: 568803.8680300234
+     Canvas Y: 3485785.200121957
+     Area: 0.00195
+     Downstream: 15
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 31.825
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 28
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 31.825
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 72
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 61.4042
+     Channel Slope: 0.0060
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 15
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.504522112446594
+     Longitude Degrees: -110.27559207656859
+     Canvas X: 568790.433434319
+     Canvas Y: 3485745.1042211466
+     Area: 0.00193
+     Downstream: 16
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 63.173
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 25
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 63.173
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 75
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4718
+     Channel Slope: 0.0060
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 16
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.504261423840525
+     Longitude Degrees: -110.2756425949809
+     Canvas X: 568785.8269420108
+     Canvas Y: 3485716.1783535085
+     Area: 0.00221
+     Downstream: 26
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3303
+     Wetting Front Suction: 101.9704
+     Hydraulic Conductivity: 8.6851
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3303
+     Wetting Front Suction: 101.9704
+     Hydraulic Conductivity: 8.6851
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 72.503
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 21
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 72.503
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 79
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4725
+     Channel Slope: 0.0060
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 24
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50699686722741
+     Longitude Degrees: -110.27479960143994
+     Canvas X: 568863.8750174118
+     Canvas Y: 3486019.8983728443
+     Area: 0.00163
+     Downstream: 61
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 23.809
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 25
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 23.809
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 75
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 68.3641
+     Channel Slope: 0.0020
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+
+     Baseflow: None
+End:
+
+Subbasin: 61
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.506719088001592
+     Longitude Degrees: -110.27478518807665
+     Canvas X: 568865.4473901513
+     Canvas Y: 3485989.1189537365
+     Area: 0.00172
+     Downstream: 23
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.889
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 28
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.889
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 72
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 31.3526
+     Channel Slope: 0.0100
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 23
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.506436220671517
+     Longitude Degrees: -110.27478550678174
+     Canvas X: 568865.624523753
+     Canvas Y: 3485957.766326782
+     Area: 0.00172
+     Downstream: 22
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.886
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 29
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.886
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 71
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 31.3528
+     Channel Slope: 0.0100
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 22
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.506153352432896
+     Longitude Degrees: -110.27478582900055
+     Canvas X: 568865.8013224937
+     Canvas Y: 3485926.413598287
+     Area: 0.00172
+     Downstream: 21
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.884
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 26
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.884
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 74
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 31.3530
+     Channel Slope: 0.0100
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 21
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.505870483439207
+     Longitude Degrees: -110.27478615303806
+     Canvas X: 568863.9030933949
+     Canvas Y: 3485896.839749313
+     Area: 0.00172
+     Downstream: 20
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.882
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 30
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.882
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 70
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 31.3530
+     Channel Slope: 0.0230
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 20
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.505587614271683
+     Longitude Degrees: -110.27478647851305
+     Canvas X: 568866.1544336923
+     Canvas Y: 3485863.7079555616
+     Area: 0.00172
+     Downstream: 19
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.881
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 32
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.881
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 68
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 31.3531
+     Channel Slope: 0.0230
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 19
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50530474461339
+     Longitude Degrees: -110.27478680609667
+     Canvas X: 568866.3307184246
+     Canvas Y: 3485832.3550704457
+     Area: 0.00172
+     Downstream: 60
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.880
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 31
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.880
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 69
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 31.3532
+     Channel Slope: 0.0230
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 60
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.505021874902503
+     Longitude Degrees: -110.27478713451126
+     Canvas X: 568866.5069224156
+     Canvas Y: 3485801.0021803454
+     Area: 0.00172
+     Downstream: 18
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.879
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 22
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.879
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 78
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 31.3532
+     Channel Slope: 0.0230
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 18
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.504744176295027
+     Longitude Degrees: -110.27480221274068
+     Canvas X: 568865.2786465696
+     Canvas Y: 3485770.213180779
+     Area: 0.00163
+     Downstream: 17
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 23.821
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 34
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 23.821
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 66
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 68.3009
+     Channel Slope: 0.0230
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 17
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50425369749193
+     Longitude Degrees: -110.27480457337043
+     Canvas X: 568865.4140619875
+     Canvas Y: 3485715.8480647076
+     Area: 0.00154
+     Downstream: 42
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4000
+     Wetting Front Suction: 197.4730
+     Hydraulic Conductivity: 11.7085
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4000
+     Wetting Front Suction: 197.4730
+     Hydraulic Conductivity: 11.7085
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 23.115
+     Plane 1 Slope: 0.050
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 28
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 23.115
+     Plane 2 Slope: 0.050
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 72
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 66.4823
+     Channel Slope: 0.0040
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 42
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.503986934525834
+     Longitude Degrees: -110.27478834134058
+     Canvas X: 568867.1510882851
+     Canvas Y: 3485686.290819328
+     Area: 0.00167
+     Downstream: 41
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4071
+     Wetting Front Suction: 207.2316
+     Hydraulic Conductivity: 12.0174
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4071
+     Wetting Front Suction: 207.2316
+     Hydraulic Conductivity: 12.0174
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.876
+     Plane 1 Slope: 0.050
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 33
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.876
+     Plane 2 Slope: 0.050
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 67
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4727
+     Channel Slope: 0.0040
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 41
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.503712048536144
+     Longitude Degrees: -110.27478889749689
+     Canvas X: 568867.2998031479
+     Canvas Y: 3485655.822691211
+     Area: 0.00167
+     Downstream: 40
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4071
+     Wetting Front Suction: 207.2316
+     Hydraulic Conductivity: 12.0174
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4071
+     Wetting Front Suction: 207.2316
+     Hydraulic Conductivity: 12.0174
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.831
+     Plane 1 Slope: 0.050
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 26
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.831
+     Plane 2 Slope: 0.050
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 74
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4723
+     Channel Slope: 0.0040
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 40
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50344065587565
+     Longitude Degrees: -110.27477956242763
+     Canvas X: 568868.3852685883
+     Canvas Y: 3485625.747970615
+     Area: 0.00160
+     Downstream: 39
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4071
+     Wetting Front Suction: 207.2316
+     Hydraulic Conductivity: 12.0174
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4071
+     Wetting Front Suction: 207.2316
+     Hydraulic Conductivity: 12.0174
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 50.056
+     Plane 1 Slope: 0.050
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 30
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 50.056
+     Plane 2 Slope: 0.050
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 70
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 32.0157
+     Channel Slope: 0.0040
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 53
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50233724633133
+     Longitude Degrees: -110.27753849071426
+     Canvas X: 568608.3752765164
+     Canvas Y: 3485503.965730862
+     Area: 0.00169
+     Downstream: 32
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 41.908
+     Plane 1 Slope: 0.002
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 30
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 41.908
+     Plane 2 Slope: 0.002
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 70
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 40.2120
+     Channel Slope: 0.0120
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+
+     Baseflow: None
+End:
+
+Subbasin: 32
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.502570160120854
+     Longitude Degrees: -110.27730425229915
+     Canvas X: 568629.2658004774
+     Canvas Y: 3485527.6810015864
+     Area: 0.00162
+     Downstream: 31
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 51.046
+     Plane 1 Slope: 0.002
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 24
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 51.046
+     Plane 2 Slope: 0.002
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 76
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 31.6904
+     Channel Slope: 0.0120
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 31
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.502775528176883
+     Longitude Degrees: -110.27708114692622
+     Canvas X: 568650.3029600708
+     Canvas Y: 3485550.5832246332
+     Area: 0.00165
+     Downstream: 30
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.245
+     Plane 1 Slope: 0.002
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 25
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.245
+     Plane 2 Slope: 0.002
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 75
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4685
+     Channel Slope: 0.0120
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 30
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.502982887069013
+     Longitude Degrees: -110.27686722876058
+     Canvas X: 568670.4661102592
+     Canvas Y: 3485573.700398248
+     Area: 0.00179
+     Downstream: 63
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 58.909
+     Plane 1 Slope: 0.002
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 25
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 58.909
+     Plane 2 Slope: 0.002
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 75
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4660
+     Channel Slope: 0.0120
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 56
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.502848446610717
+     Longitude Degrees: -110.27865934534343
+     Canvas X: 568502.9700520543
+     Canvas Y: 3485555.0712942374
+     Area: 0.00151
+     Downstream: 55
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 45.304
+     Plane 1 Slope: 0.030
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 31
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 45.304
+     Plane 2 Slope: 0.030
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 69
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 33.3161
+     Channel Slope: 0.0160
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+
+     Baseflow: None
+End:
+
+Subbasin: 55
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.503075097356813
+     Longitude Degrees: -110.27845385896744
+     Canvas X: 568519.7248971646
+     Canvas Y: 3485582.9281217675
+     Area: 0.00164
+     Downstream: 47
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 50.957
+     Plane 1 Slope: 0.030
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 38
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 50.957
+     Plane 2 Slope: 0.030
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 62
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 32.2645
+     Channel Slope: 0.0160
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 47
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.503298078471115
+     Longitude Degrees: -110.2782550427988
+     Canvas X: 568538.4427151019
+     Canvas Y: 3485607.7671319153
+     Area: 0.00166
+     Downstream: 66
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.510
+     Plane 1 Slope: 0.030
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 27
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.510
+     Plane 2 Slope: 0.030
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 73
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.5416
+     Channel Slope: 0.0160
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 66
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.503523760592135
+     Longitude Degrees: -110.27807303038513
+     Canvas X: 568555.5627161924
+     Canvas Y: 3485632.8950445037
+     Area: 0.00167
+     Downstream: 46
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.936
+     Plane 1 Slope: 0.030
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 29
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.936
+     Plane 2 Slope: 0.030
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 71
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4649
+     Channel Slope: 0.0160
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 46
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50375057465907
+     Longitude Degrees: -110.27789183677854
+     Canvas X: 568572.6040499695
+     Canvas Y: 3485658.14793789
+     Area: 0.00167
+     Downstream: 45
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0284
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0284
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.936
+     Plane 1 Slope: 0.030
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 28
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.936
+     Plane 2 Slope: 0.030
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 72
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4648
+     Channel Slope: 0.0160
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 65
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.505383734926433
+     Longitude Degrees: -110.27658793744384
+     Canvas X: 568695.2331409506
+     Canvas Y: 3485839.98019895
+     Area: 0.00167
+     Downstream: 6
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.734
+     Plane 1 Slope: 0.068
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 31
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.734
+     Plane 2 Slope: 0.068
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 69
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.5072
+     Channel Slope: 0.0100
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+
+     Baseflow: None
+End:
+
+Subbasin: 6
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50515681345586
+     Longitude Degrees: -110.2767684336254
+     Canvas X: 568678.2587187103
+     Canvas Y: 3485814.7156204684
+     Area: 0.00167
+     Downstream: 7
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.936
+     Plane 1 Slope: 0.068
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 34
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.936
+     Plane 2 Slope: 0.068
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 66
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4645
+     Channel Slope: 0.0100
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 7
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50493000191964
+     Longitude Degrees: -110.27694963140524
+     Canvas X: 568661.2175067794
+     Canvas Y: 3485789.4628174957
+     Area: 0.00167
+     Downstream: 8
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.936
+     Plane 1 Slope: 0.068
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 33
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.936
+     Plane 2 Slope: 0.068
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 67
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4647
+     Channel Slope: 0.0100
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 8
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.504703189276338
+     Longitude Degrees: -110.27713082144861
+     Canvas X: 568644.1769464645
+     Canvas Y: 3485764.209926901
+     Area: 0.00167
+     Downstream: 43
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.935
+     Plane 1 Slope: 0.068
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 26
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.935
+     Plane 2 Slope: 0.068
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 74
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4641
+     Channel Slope: 0.0100
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 43
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50447637555224
+     Longitude Degrees: -110.27731201099995
+     Canvas X: 568627.1363497919
+     Canvas Y: 3485738.9569470575
+     Area: 0.00167
+     Downstream: 44
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.935
+     Plane 1 Slope: 0.068
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 22
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.935
+     Plane 2 Slope: 0.068
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 78
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4647
+     Channel Slope: 0.0100
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 44
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50424956330329
+     Longitude Degrees: -110.27749320726765
+     Canvas X: 568610.0950303636
+     Canvas Y: 3485713.7041567485
+     Area: 0.00167
+     Downstream: J2
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.935
+     Plane 1 Slope: 0.068
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 22
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.935
+     Plane 2 Slope: 0.068
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 78
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4647
+     Channel Slope: 0.0100
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 45
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50402275040037
+     Longitude Degrees: -110.27767440300248
+     Canvas X: 568593.0536781464
+     Canvas Y: 3485688.4513245267
+     Area: 0.00167
+     Downstream: J2
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3383
+     Wetting Front Suction: 118.9822
+     Hydraulic Conductivity: 10.0965
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3383
+     Wetting Front Suction: 118.9822
+     Hydraulic Conductivity: 10.0965
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.935
+     Plane 1 Slope: 0.050
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 27
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.935
+     Plane 2 Slope: 0.050
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 73
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4648
+     Channel Slope: 0.0160
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Junction: J2
+     Last Modified Date: 8 June 2023
+     Last Modified Time: 07:24:11
+     Canvas X: 568634.4249532487
+     Canvas Y: 3485677.412007955
+     From Canvas X: 568634.4249532487
+     From Canvas Y: 3485677.412007955
+     Downstream: J3
+End:
+
+Subbasin: 54
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.5027023953615
+     Longitude Degrees: -110.27787244750074
+     Canvas X: 568575.2105120926
+     Canvas Y: 3485541.982147138
+     Area: 0.00160
+     Downstream: 48
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 52.200
+     Plane 1 Slope: 0.002
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 25
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 52.200
+     Plane 2 Slope: 0.002
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 75
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.7409
+     Channel Slope: 0.0160
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+
+     Baseflow: None
+End:
+
+Subbasin: 48
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.502916528232657
+     Longitude Degrees: -110.27766617624566
+     Canvas X: 568594.6427086979
+     Canvas Y: 3485565.8452007445
+     Area: 0.00156
+     Downstream: 49
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 51.303
+     Plane 1 Slope: 0.002
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 35
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 51.303
+     Plane 2 Slope: 0.002
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 65
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4304
+     Channel Slope: 0.0160
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 49
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.503134808896103
+     Longitude Degrees: -110.27747063603499
+     Canvas X: 568613.0527163849
+     Canvas Y: 3485590.161309647
+     Area: 0.00164
+     Downstream: 50
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 53.991
+     Plane 1 Slope: 0.002
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 26
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 53.991
+     Plane 2 Slope: 0.002
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 74
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4647
+     Channel Slope: 0.0160
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 50
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50335840401926
+     Longitude Degrees: -110.27728625537864
+     Canvas X: 568630.3989941286
+     Canvas Y: 3485615.059511051
+     Area: 0.00167
+     Downstream: 51
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.905
+     Plane 1 Slope: 0.002
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 26
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.905
+     Plane 2 Slope: 0.002
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 74
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4647
+     Channel Slope: 0.0160
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 51
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.503593957010725
+     Longitude Degrees: -110.2770808140926
+     Canvas X: 568649.7364537414
+     Canvas Y: 3485641.29631498
+     Area: 0.00189
+     Downstream: J3
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 22.302
+     Plane 1 Slope: 0.002
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 22
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 22.302
+     Plane 2 Slope: 0.002
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 78
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 84.6755
+     Channel Slope: 0.0160
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Junction: J3
+     Last Modified Date: 8 June 2023
+     Last Modified Time: 07:24:13
+     Canvas X: 568692.9006912581
+     Canvas Y: 3485652.3509773808
+     From Canvas X: 568692.9006912581
+     From Canvas Y: 3485652.3509773808
+     Downstream: 29
+End:
+
+Subbasin: 63
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.503193890208557
+     Longitude Degrees: -110.27665925834488
+     Canvas X: 568689.8247681466
+     Canvas Y: 3485602.9827599023
+     Area: 0.00199
+     Downstream: 29
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 65.142
+     Plane 1 Slope: 0.002
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 24
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 65.142
+     Plane 2 Slope: 0.002
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 76
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.5002
+     Channel Slope: 0.0120
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 29
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.503362279736386
+     Longitude Degrees: -110.27638120432732
+     Canvas X: 568716.3437764548
+     Canvas Y: 3485616.0559778833
+     Area: 0.00235
+     Downstream: J4
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3649
+     Wetting Front Suction: 155.9416
+     Hydraulic Conductivity: 11.3473
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3649
+     Wetting Front Suction: 155.9416
+     Hydraulic Conductivity: 11.3473
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 19.283
+     Plane 1 Slope: 0.002
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 21
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 19.283
+     Plane 2 Slope: 0.002
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 79
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 121.7331
+     Channel Slope: 0.0120
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 39
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 05:17:11
+     Latitude Degrees:  31.503037370777708
+     Longitude Degrees: -110.27476412942302
+     Canvas X: 568869.4927643897
+     Canvas Y: 3485579.8255514987
+     Area: 0.00293
+     Downstream: J4
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4071
+     Wetting Front Suction: 207.2316
+     Hydraulic Conductivity: 12.0174
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4071
+     Wetting Front Suction: 207.2316
+     Hydraulic Conductivity: 12.0174
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 194.443
+     Plane 1 Slope: 0.050
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 24
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 194.443
+     Plane 2 Slope: 0.050
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 76
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 15.0559
+     Channel Slope: 0.0040
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+
+     Baseflow: None
+End:
+
+Subbasin: 26
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.503966531733116
+     Longitude Degrees: -110.2755066254261
+     Canvas X: 568798.9550692547
+     Canvas Y: 3485683.578456228
+     Area: 0.00176
+     Downstream: J4
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4045
+     Wetting Front Suction: 203.6645
+     Hydraulic Conductivity: 11.9045
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4045
+     Wetting Front Suction: 203.6645
+     Hydraulic Conductivity: 11.9045
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 36.984
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 28
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 36.984
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 72
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 47.6073
+     Channel Slope: 0.0060
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 12
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50514070456998
+     Longitude Degrees: -110.27582568051895
+     Canvas X: 568770.4757353489
+     Canvas Y: 3485813.7932088263
+     Area: 0.00215
+     Downstream: 11
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 70.168
+     Plane 1 Slope: 0.005
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 22
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 70.168
+     Plane 2 Slope: 0.005
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 78
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.6119
+     Channel Slope: 0.0100
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+
+     Baseflow: None
+End:
+
+Subbasin: 11
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.504891233722603
+     Longitude Degrees: -110.27606161288462
+     Canvas X: 568745.5746055418
+     Canvas Y: 3485785.7223229334
+     Area: 0.00167
+     Downstream: 10
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.921
+     Plane 1 Slope: 0.005
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 30
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.921
+     Plane 2 Slope: 0.005
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 70
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4643
+     Channel Slope: 0.0100
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 10
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.5046644273091
+     Longitude Degrees: -110.27624279954449
+     Canvas X: 568728.5345568057
+     Canvas Y: 3485760.469983545
+     Area: 0.00167
+     Downstream: 9
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.923
+     Plane 1 Slope: 0.005
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 23
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.923
+     Plane 2 Slope: 0.005
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 77
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4644
+     Channel Slope: 0.0100
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 9
+     Last Modified Date: 17 June 2023
+     Last Modified Time: 03:33:42
+     Latitude Degrees:  31.50443761889981
+     Longitude Degrees: -110.27642398644969
+     Canvas X: 568711.4944023654
+     Canvas Y: 3485735.2174530304
+     Area: 0.00167
+     Downstream: 62
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.923
+     Plane 1 Slope: 0.005
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 35
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.923
+     Plane 2 Slope: 0.005
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 65
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4645
+     Channel Slope: 0.0100
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 62
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.504210809642068
+     Longitude Degrees: -110.27660517285332
+     Canvas X: 568694.4542123085
+     Canvas Y: 3485709.964859026
+     Area: 0.00167
+     Downstream: 52
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3186
+     Wetting Front Suction: 85.9910
+     Hydraulic Conductivity: 8.1793
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.924
+     Plane 1 Slope: 0.005
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 32
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.924
+     Plane 2 Slope: 0.005
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 68
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4645
+     Channel Slope: 0.0100
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 52
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.5039843107531
+     Longitude Degrees: -110.2768017603613
+     Canvas X: 568675.9511647886
+     Canvas Y: 3485684.737048543
+     Area: 0.00175
+     Downstream: 25
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3198
+     Wetting Front Suction: 87.6064
+     Hydraulic Conductivity: 8.2304
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3198
+     Wetting Front Suction: 87.6064
+     Hydraulic Conductivity: 8.2304
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 19.922
+     Plane 1 Slope: 0.005
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 24
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 19.922
+     Plane 2 Slope: 0.005
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 76
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 87.6721
+     Channel Slope: 0.0100
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 25
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.503949707128132
+     Longitude Degrees: -110.27618524870745
+     Canvas X: 568734.5227478535
+     Canvas Y: 3485681.28800302
+     Area: 0.00216
+     Downstream: 27
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3610
+     Wetting Front Suction: 144.0817
+     Hydraulic Conductivity: 10.0183
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3610
+     Wetting Front Suction: 144.0817
+     Hydraulic Conductivity: 10.0183
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 65.356
+     Plane 1 Slope: 0.030
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 20
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 65.356
+     Plane 2 Slope: 0.030
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 80
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 33.0470
+     Channel Slope: 0.0070
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 27
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.503757796075607
+     Longitude Degrees: -110.27592013445859
+     Canvas X: 568759.8394811538
+     Canvas Y: 3485660.1832312657
+     Area: 0.00170
+     Downstream: 28
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4071
+     Wetting Front Suction: 207.2316
+     Hydraulic Conductivity: 12.0174
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4071
+     Wetting Front Suction: 207.2316
+     Hydraulic Conductivity: 12.0174
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 51.724
+     Plane 1 Slope: 0.030
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 26
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 51.724
+     Plane 2 Slope: 0.030
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 74
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 32.7939
+     Channel Slope: 0.0070
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 28
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.503540265911735
+     Longitude Degrees: -110.2755658621857
+     Canvas X: 568793.6418986766
+     Canvas Y: 3485636.294892395
+     Area: 0.00289
+     Downstream: J4
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4071
+     Wetting Front Suction: 207.2316
+     Hydraulic Conductivity: 12.0174
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4071
+     Wetting Front Suction: 207.2316
+     Hydraulic Conductivity: 12.0174
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 26.001
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 23
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 26.001
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 77
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 111.1046
+     Channel Slope: 0.0060
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 33
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.5020226605147
+     Longitude Degrees: -110.27690350374368
+     Canvas X: 568667.7231641338
+     Canvas Y: 3485467.248253362
+     Area: 0.00167
+     Downstream: 34
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.892
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 32
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.892
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 68
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4714
+     Channel Slope: 0.0120
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+
+     Baseflow: None
+End:
+
+Subbasin: 34
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50221397816307
+     Longitude Degrees: -110.27667312038712
+     Canvas X: 568689.4617984538
+     Canvas Y: 3485488.5977944243
+     Area: 0.00167
+     Downstream: 35
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.898
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 19
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.898
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 81
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4684
+     Channel Slope: 0.0120
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 35
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.50240528050977
+     Longitude Degrees: -110.2764427438315
+     Canvas X: 568711.1997087233
+     Canvas Y: 3485509.9456828106
+     Area: 0.00167
+     Downstream: 36
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.902
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 26
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.902
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 74
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4679
+     Channel Slope: 0.0120
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 36
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.502596580762507
+     Longitude Degrees: -110.27621237261323
+     Canvas X: 568732.9370242847
+     Canvas Y: 3485531.2933833455
+     Area: 0.00167
+     Downstream: 37
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 54.906
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 38
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 54.906
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 62
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 30.4673
+     Channel Slope: 0.0120
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 37
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.502795271618314
+     Longitude Degrees: -110.27597324031336
+     Canvas X: 568755.5008370106
+     Canvas Y: 3485553.46578403
+     Area: 0.00179
+     Downstream: 38
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3485
+     Wetting Front Suction: 136.0283
+     Hydraulic Conductivity: 11.0871
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 43.213
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 43
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 43.213
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 57
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 41.4112
+     Channel Slope: 0.0120
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 38
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.502885861061763
+     Longitude Degrees: -110.27562948357884
+     Canvas X: 568786.6475093344
+     Canvas Y: 3485562.3169045737
+     Area: 0.00188
+     Downstream: 64
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3831
+     Wetting Front Suction: 178.0660
+     Hydraulic Conductivity: 11.6364
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.3831
+     Wetting Front Suction: 178.0660
+     Hydraulic Conductivity: 11.6364
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 46.490
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 30
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 46.490
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 70
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 40.5246
+     Channel Slope: 0.0120
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Subbasin: 64
+     Last Modified Date: 15 June 2023
+     Last Modified Time: 04:16:12
+     Latitude Degrees:  31.502937944084806
+     Longitude Degrees: -110.27528403730611
+     Canvas X: 568820.846453528
+     Canvas Y: 3485569.7117003263
+     Area: 0.00171
+     Downstream: J4
+
+     Discretization: None
+     File: LaTerraza___PostDevelopment.sqlite
+
+     Canopy 1: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Canopy 2: Simple
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Initial Canopy Storage Percent: 0
+     Canopy Storage Capacity: 2
+     Crop Coefficient: 1.0
+     End Canopy:
+
+     Surface 1: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     Surface 2: Simple
+     Initial Surface Storage Percent: 0
+     Surface Storage Capacity: 0
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate 1: Green and Ampt
+     Percent Impervious Area: 100
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4071
+     Wetting Front Suction: 207.2316
+     Hydraulic Conductivity: 12.0174
+
+     LossRate 2: Green and Ampt
+     Percent Impervious Area: 0
+     Initial Variable: Water Content
+     Initial Content: 0.2
+     Saturated Content: 0.4071
+     Wetting Front Suction: 207.2316
+     Hydraulic Conductivity: 12.0174
+
+     Transform: Kinematic Wave
+
+     Plane: 1
+     Plane 1 Length: 51.059
+     Plane 1 Slope: 0.020
+     Plane 1 Roughness: 0.011
+     Plane 1 Percent of Area: 31
+     Plane 1 Number of Steps: 5
+
+     Plane: 2
+     Plane 2 Length: 51.059
+     Plane 2 Slope: 0.020
+     Plane 2 Roughness: 0.02
+     Plane 2 Percent of Area: 69
+     Plane 2 Number of Steps: 5
+
+     Channel: Main
+     Channel Length: 33.4985
+     Channel Slope: 0.0120
+     Channel Mannings N: 0.011
+     Shape: Trapezoid
+     Channel Width: 8.5
+     Channel Side Slope: 1
+     Channel Number of Steps: 5
+     Route Upstream: Yes
+
+     Baseflow: None
+End:
+
+Junction: J4
+     Last Modified Date: 8 June 2023
+     Last Modified Time: 07:23:56
+     Canvas X: 568831.200452579
+     Canvas Y: 3485607.798034136
+     From Canvas X: 568831.200452579
+     From Canvas Y: 3485607.798034136
+     Downstream: Outlet
+End:
+
+Junction: Outlet
+     Last Modified Date: 8 June 2023
+     Last Modified Time: 07:23:48
+     Canvas X: 568859.0460421068
+     Canvas Y: 3485533.54312873
+     From Canvas X: 568859.0460421068
+     From Canvas Y: 3485533.54312873
+End:
+
+Basin Layer Properties:
+     Element Layer:
+          Name: Icons
+          Layer shown: Yes
+     End Layer:
+     2D Connection Layer:
+          Layer shown: No
+     End Layer:
+     Element Layer:
+          Name: Subbasins
+          Layer shown: Yes
+     End Layer:
+     Discretization Layer:
+          Layer shown: No
+     End Layer:
+End:
+
+Basin Spatial Properties:
+     Coordinate System: PROJCS["NAD83 / UTM zone 12N",GEOGCS["NAD83",DATUM["North_American_Datum_1983",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","6269"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4269"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",-111],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","26912"]]
+End:
+
+Basin Schematic Properties:
+     Last View N: 3486019.8983728443
+     Last View S: 3485467.248253362
+     Last View W: 568500.3762293849
+     Last View E: 568870.1465222687
+     Maximum View N: 3486019.8983728443
+     Maximum View S: 3485467.248253362
+     Maximum View W: 568500.3762293849
+     Maximum View E: 568870.1465222687
+     Extent Method: Elements
+     Buffer: 0
+     Draw Icons: Yes
+     Draw Icon Labels: Name
+     Draw Map Objects: No
+     Draw Gridlines: No
+     Draw Flow Direction: No
+     Draw HillShade Layer: Yes
+     Draw Elevation Layer: Yes
+     Elevation Layer Color Palette: Gray Scale
+     Ignore Elevation Color Ramp Scale: No
+     Use Interpolated Color Ramp for Elevation Layer: Yes
+     Color Ramp Opacity Level for Elevation Layer: 33.0
+     Fix Element Locations: No
+     Fix Hydrologic Order: No
+End:

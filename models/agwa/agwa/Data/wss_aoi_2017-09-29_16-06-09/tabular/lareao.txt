@@ -1,0 +1,6 @@
+"Climate Factor Area (USLE)"|"40"|"Climate Factor"|1714300|"10280"|"266704"
+"County or Parish"|"AZ003"|"Cochise"|1714300|"10280"|"266705"
+"MLRA"|"41"|"Southeastern Arizona Basin and Range"|1714300|"10280"|"266706"
+"MLRA Soil Survey Area"|"8-TUS"|"Tucson, Arizona"|1714300|"10280"|"266707"
+"Rainfall Factor Area (USLE)"|"70"|"Rainfall Factor"|1714300|"10280"|"266708"
+"State or Territory"|"AZ"|"Arizona"|1714300|"10280"|"266709"

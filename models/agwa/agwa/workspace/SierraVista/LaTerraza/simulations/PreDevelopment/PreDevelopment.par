@@ -1,0 +1,1070 @@
+! File Info
+! AGWA Version:               20191114
+! Simulation Creation Date:   6/11/2023 9:56:08 PM
+! Parcel ShapeFile:           parcels_LaTerraza
+! End of File Info
+
+BEGIN GLOBAL
+  CLEN = 5, UNITS = METRIC
+END GLOBAL
+
+BEGIN URBAN
+  ID = 24
+  PRINT = 3, FILE = urban\u_24.sim, XPRINT = streets\u_24.str
+  LENGTH = 23.81, WI = 68.36, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568863.88, Y = 3486019.9
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 61, UP = 24
+  PRINT = 3, FILE = urban\u_61.sim, XPRINT = streets\u_61.str
+  LENGTH = 54.89, WI = 31.35, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568865.45, Y = 3485989.12
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 23, UP = 61
+  PRINT = 3, FILE = urban\u_23.sim, XPRINT = streets\u_23.str
+  LENGTH = 54.89, WI = 31.35, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568865.62, Y = 3485957.77
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 58
+  PRINT = 3, FILE = urban\u_58.sim, XPRINT = streets\u_58.str
+  LENGTH = 51.54, WI = 30.73, 8.5
+  SLOPE = 0.037, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568711.02, Y = 3485865.87
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 22, UP = 23
+  PRINT = 3, FILE = urban\u_22.sim, XPRINT = streets\u_22.str
+  LENGTH = 54.88, WI = 31.35, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568865.8, Y = 3485926.41
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 56
+  PRINT = 3, FILE = urban\u_56.sim, XPRINT = streets\u_56.str
+  LENGTH = 45.3, WI = 33.32, 8.5
+  SLOPE = 0.03, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568500.38, Y = 3485557.68
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 65
+  PRINT = 3, FILE = urban\u_65.sim, XPRINT = streets\u_65.str
+  LENGTH = 54.73, WI = 30.51, 8.5
+  SLOPE = 0.068, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568695.23, Y = 3485839.98
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 5, UP = 58
+  PRINT = 3, FILE = urban\u_5.sim, XPRINT = streets\u_5.str
+  LENGTH = 46.88, WI = 33.24, 8.5
+  SLOPE = 0.037, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568727.16, Y = 3485892.73
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 21, UP = 22
+  PRINT = 3, FILE = urban\u_21.sim, XPRINT = streets\u_21.str
+  LENGTH = 54.88, WI = 31.35, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568865.98, Y = 3485895.06
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 55, UP = 56
+  PRINT = 3, FILE = urban\u_55.sim, XPRINT = streets\u_55.str
+  LENGTH = 50.96, WI = 32.26, 8.5
+  SLOPE = 0.03, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568519.72, Y = 3485582.93
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 6, UP = 65
+  PRINT = 3, FILE = urban\u_6.sim, XPRINT = streets\u_6.str
+  LENGTH = 54.94, WI = 30.46, 8.5
+  SLOPE = 0.068, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568678.26, Y = 3485814.72
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 12
+  PRINT = 3, FILE = urban\u_12.sim, XPRINT = streets\u_12.str
+  LENGTH = 70.17, WI = 30.61, 8.5
+  SLOPE = 0.005, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568767.8, Y = 3485813.52
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 4, UP = 5
+  PRINT = 3, FILE = urban\u_4.sim, XPRINT = streets\u_4.str
+  LENGTH = 80.39, WI = 19.61, 8.5
+  SLOPE = 0.037, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568742.18, Y = 3485925.47
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 57
+  PRINT = 3, FILE = urban\u_57.sim, XPRINT = streets\u_57.str
+  LENGTH = 32.96, WI = 69.08, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568799.82, Y = 3486014.05
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 20, UP = 21
+  PRINT = 3, FILE = urban\u_20.sim, XPRINT = streets\u_20.str
+  LENGTH = 54.88, WI = 31.35, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568866.15, Y = 3485863.71
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 47, UP = 55
+  PRINT = 3, FILE = urban\u_47.sim, XPRINT = streets\u_47.str
+  LENGTH = 54.51, WI = 30.54, 8.5
+  SLOPE = 0.03, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568538.44, Y = 3485607.77
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 54
+  PRINT = 3, FILE = urban\u_54.sim, XPRINT = streets\u_54.str
+  LENGTH = 52.2, WI = 30.74, 8.5
+  SLOPE = 0.002, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568575.21, Y = 3485541.98
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 53
+  PRINT = 3, FILE = urban\u_53.sim, XPRINT = streets\u_53.str
+  LENGTH = 41.91, WI = 40.21, 8.5
+  SLOPE = 0.002, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568607.19, Y = 3485501.72
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 7, UP = 6
+  PRINT = 3, FILE = urban\u_7.sim, XPRINT = streets\u_7.str
+  LENGTH = 54.94, WI = 30.46, 8.5
+  SLOPE = 0.068, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568661.22, Y = 3485789.46
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 11, UP = 12
+  PRINT = 3, FILE = urban\u_11.sim, XPRINT = streets\u_11.str
+  LENGTH = 54.92, WI = 30.46, 8.5
+  SLOPE = 0.005, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568745.57, Y = 3485785.72
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 3, UP = 4
+  PRINT = 3, FILE = urban\u_3.sim, XPRINT = streets\u_3.str
+  LENGTH = 62, WI = 25.86, 8.5
+  SLOPE = 0.037, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568771.89, Y = 3485935
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 1, UP = 57
+  PRINT = 3, FILE = urban\u_1.sim, XPRINT = streets\u_1.str
+  LENGTH = 68.7, WI = 30.47, 8.5
+  SLOPE = 0.05, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568786.4, Y = 3485972.93
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 19, UP = 20
+  PRINT = 3, FILE = urban\u_19.sim, XPRINT = streets\u_19.str
+  LENGTH = 54.88, WI = 31.35, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568866.33, Y = 3485832.36
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 33
+  PRINT = 3, FILE = urban\u_33.sim, XPRINT = streets\u_33.str
+  LENGTH = 54.89, WI = 30.47, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568667.72, Y = 3485467.25
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 66, UP = 47
+  PRINT = 3, FILE = urban\u_66.sim, XPRINT = streets\u_66.str
+  LENGTH = 54.94, WI = 30.46, 8.5
+  SLOPE = 0.03, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568555.56, Y = 3485632.9
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 48, UP = 54
+  PRINT = 3, FILE = urban\u_48.sim, XPRINT = streets\u_48.str
+  LENGTH = 51.3, WI = 30.43, 8.5
+  SLOPE = 0.002, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568594.64, Y = 3485565.85
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 32, UP = 53
+  PRINT = 3, FILE = urban\u_32.sim, XPRINT = streets\u_32.str
+  LENGTH = 51.05, WI = 31.69, 8.5
+  SLOPE = 0.002, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568629.27, Y = 3485527.68
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 8, UP = 7
+  PRINT = 3, FILE = urban\u_8.sim, XPRINT = streets\u_8.str
+  LENGTH = 54.94, WI = 30.46, 8.5
+  SLOPE = 0.068, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568644.18, Y = 3485764.21
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 10, UP = 11
+  PRINT = 3, FILE = urban\u_10.sim, XPRINT = streets\u_10.str
+  LENGTH = 54.92, WI = 30.46, 8.5
+  SLOPE = 0.005, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568728.53, Y = 3485760.47
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 59
+  PRINT = 3, FILE = urban\u_59.sim, XPRINT = streets\u_59.str
+  LENGTH = 26.52, WI = 69.21, 8.5
+  SLOPE = 0.005, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568772.9, Y = 3485854.46
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 2, UP = 3, 1
+  PRINT = 3, FILE = urban\u_2.sim, XPRINT = streets\u_2.str
+  LENGTH = 21.47, WI = 85.12, 8.5
+  SLOPE = 0.037, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568804.37, Y = 3485931.3
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 60, UP = 19
+  PRINT = 3, FILE = urban\u_60.sim, XPRINT = streets\u_60.str
+  LENGTH = 54.88, WI = 31.35, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568866.51, Y = 3485801
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 34, UP = 33
+  PRINT = 3, FILE = urban\u_34.sim, XPRINT = streets\u_34.str
+  LENGTH = 54.9, WI = 30.47, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568689.46, Y = 3485488.6
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 46, UP = 66
+  PRINT = 3, FILE = urban\u_46.sim, XPRINT = streets\u_46.str
+  LENGTH = 54.94, WI = 30.46, 8.5
+  SLOPE = 0.03, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568572.6, Y = 3485658.15
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 49, UP = 48
+  PRINT = 3, FILE = urban\u_49.sim, XPRINT = streets\u_49.str
+  LENGTH = 53.99, WI = 30.46, 8.5
+  SLOPE = 0.002, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568613.05, Y = 3485590.16
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 31, UP = 32
+  PRINT = 3, FILE = urban\u_31.sim, XPRINT = streets\u_31.str
+  LENGTH = 54.24, WI = 30.47, 8.5
+  SLOPE = 0.002, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568650.3, Y = 3485550.58
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 43, UP = 8
+  PRINT = 3, FILE = urban\u_43.sim, XPRINT = streets\u_43.str
+  LENGTH = 54.94, WI = 30.46, 8.5
+  SLOPE = 0.068, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568627.14, Y = 3485738.96
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 9, UP = 10
+  PRINT = 3, FILE = urban\u_9.sim, XPRINT = streets\u_9.str
+  LENGTH = 54.92, WI = 30.46, 8.5
+  SLOPE = 0.005, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568711.49, Y = 3485735.22
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 13, UP = 59, 2
+  PRINT = 3, FILE = urban\u_13.sim, XPRINT = streets\u_13.str
+  LENGTH = 21.25, WI = 86.66, 8.5
+  SLOPE = 0.005, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568805.56, Y = 3485857.51
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 18, UP = 60
+  PRINT = 3, FILE = urban\u_18.sim, XPRINT = streets\u_18.str
+  LENGTH = 23.82, WI = 68.3, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568865.28, Y = 3485770.21
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 35, UP = 34
+  PRINT = 3, FILE = urban\u_35.sim, XPRINT = streets\u_35.str
+  LENGTH = 54.9, WI = 30.47, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568711.2, Y = 3485509.95
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 45, UP = 46
+  PRINT = 3, FILE = urban\u_45.sim, XPRINT = streets\u_45.str
+  LENGTH = 54.94, WI = 30.46, 8.5
+  SLOPE = 0.05, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 10.097, G = 118.982, CV = 1.16
+  POROSITY = 0.338, DIST = 0.288, ROCK = 0.182
+  INTER = 2, 2, CANOPY = 1
+  X = 568593.05, Y = 3485688.45
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 50, UP = 49
+  PRINT = 3, FILE = urban\u_50.sim, XPRINT = streets\u_50.str
+  LENGTH = 54.9, WI = 30.46, 8.5
+  SLOPE = 0.002, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568630.4, Y = 3485615.06
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 30, UP = 31
+  PRINT = 3, FILE = urban\u_30.sim, XPRINT = streets\u_30.str
+  LENGTH = 58.91, WI = 30.47, 8.5
+  SLOPE = 0.002, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568670.47, Y = 3485573.7
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 44, UP = 43
+  PRINT = 3, FILE = urban\u_44.sim, XPRINT = streets\u_44.str
+  LENGTH = 54.94, WI = 30.46, 8.5
+  SLOPE = 0.068, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568610.1, Y = 3485713.7
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 62, UP = 9
+  PRINT = 3, FILE = urban\u_62.sim, XPRINT = streets\u_62.str
+  LENGTH = 54.92, WI = 30.46, 8.5
+  SLOPE = 0.005, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568694.45, Y = 3485709.96
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 14, UP = 13
+  PRINT = 3, FILE = urban\u_14.sim, XPRINT = streets\u_14.str
+  LENGTH = 31.82, WI = 61.4, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568803.87, Y = 3485785.2
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 17, UP = 18
+  PRINT = 3, FILE = urban\u_17.sim, XPRINT = streets\u_17.str
+  LENGTH = 23.12, WI = 66.48, 8.5
+  SLOPE = 0.05, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.647, G = 195.541, CV = 1.164
+  POROSITY = 0.399, DIST = 0.281, ROCK = 0.102
+  INTER = 2, 2, CANOPY = 1
+  X = 568865.41, Y = 3485715.85
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 36, UP = 35
+  PRINT = 3, FILE = urban\u_36.sim, XPRINT = streets\u_36.str
+  LENGTH = 54.91, WI = 30.47, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568732.94, Y = 3485531.29
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 51, UP = 45, 50
+  PRINT = 3, FILE = urban\u_51.sim, XPRINT = streets\u_51.str
+  LENGTH = 22.3, WI = 84.68, 8.5
+  SLOPE = 0.002, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568649.74, Y = 3485641.3
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 63, UP = 30
+  PRINT = 3, FILE = urban\u_63.sim, XPRINT = streets\u_63.str
+  LENGTH = 65.14, WI = 30.5, 8.5
+  SLOPE = 0.002, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568690.06, Y = 3485597.22
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 52, UP = 44, 62
+  PRINT = 3, FILE = urban\u_52.sim, XPRINT = streets\u_52.str
+  LENGTH = 19.92, WI = 87.67, 8.5
+  SLOPE = 0.005, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.23, G = 87.603, CV = 1.101
+  POROSITY = 0.32, DIST = 0.247, ROCK = 0.26
+  INTER = 2, 2, CANOPY = 1
+  X = 568675.95, Y = 3485684.74
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 15, UP = 14
+  PRINT = 3, FILE = urban\u_15.sim, XPRINT = streets\u_15.str
+  LENGTH = 63.17, WI = 30.47, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.179, G = 85.991, CV = 1.1
+  POROSITY = 0.319, DIST = 0.246, ROCK = 0.262
+  INTER = 2, 2, CANOPY = 1
+  X = 568790.43, Y = 3485745.1
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 42, UP = 17
+  PRINT = 3, FILE = urban\u_42.sim, XPRINT = streets\u_42.str
+  LENGTH = 54.88, WI = 30.47, 8.5
+  SLOPE = 0.05, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 12.017, G = 207.232, CV = 1.171
+  POROSITY = 0.407, DIST = 0.284, ROCK = 0.084
+  INTER = 2, 2, CANOPY = 1
+  X = 568867.15, Y = 3485686.29
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 37, UP = 36
+  PRINT = 3, FILE = urban\u_37.sim, XPRINT = streets\u_37.str
+  LENGTH = 43.21, WI = 41.41, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.087, G = 136.028, CV = 1.191
+  POROSITY = 0.348, DIST = 0.309, ROCK = 0.14
+  INTER = 2, 2, CANOPY = 1
+  X = 568755.5, Y = 3485553.47
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 29, UP = 51, 63
+  PRINT = 3, FILE = urban\u_29.sim, XPRINT = streets\u_29.str
+  LENGTH = 19.28, WI = 121.73, 8.5
+  SLOPE = 0.002, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.347, G = 155.927, CV = 1.185
+  POROSITY = 0.365, DIST = 0.302, ROCK = 0.124
+  INTER = 2, 2, CANOPY = 1
+  X = 568716.34, Y = 3485616.06
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 25, UP = 52
+  PRINT = 3, FILE = urban\u_25.sim, XPRINT = streets\u_25.str
+  LENGTH = 65.36, WI = 33.05, 8.5
+  SLOPE = 0.03, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 10.017, G = 144.038, CV = 1.134
+  POROSITY = 0.361, DIST = 0.264, ROCK = 0.177
+  INTER = 2, 2, CANOPY = 1
+  X = 568734.52, Y = 3485681.29
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 16, UP = 15
+  PRINT = 3, FILE = urban\u_16.sim, XPRINT = streets\u_16.str
+  LENGTH = 72.5, WI = 30.47, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 8.684, G = 101.948, CV = 1.11
+  POROSITY = 0.33, DIST = 0.251, ROCK = 0.239
+  INTER = 2, 2, CANOPY = 1
+  X = 568785.83, Y = 3485716.18
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 41, UP = 42
+  PRINT = 3, FILE = urban\u_41.sim, XPRINT = streets\u_41.str
+  LENGTH = 54.83, WI = 30.47, 8.5
+  SLOPE = 0.05, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 12.017, G = 207.232, CV = 1.171
+  POROSITY = 0.407, DIST = 0.284, ROCK = 0.084
+  INTER = 2, 2, CANOPY = 1
+  X = 568867.3, Y = 3485655.82
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 38, UP = 37, 29
+  PRINT = 3, FILE = urban\u_38.sim, XPRINT = streets\u_38.str
+  LENGTH = 46.49, WI = 40.52, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.636, G = 178.044, CV = 1.179
+  POROSITY = 0.383, DIST = 0.294, ROCK = 0.107
+  INTER = 2, 2, CANOPY = 1
+  X = 568788.08, Y = 3485563.72
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 27, UP = 25
+  PRINT = 3, FILE = urban\u_27.sim, XPRINT = streets\u_27.str
+  LENGTH = 51.72, WI = 32.79, 8.5
+  SLOPE = 0.03, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 12.017, G = 207.232, CV = 1.171
+  POROSITY = 0.407, DIST = 0.284, ROCK = 0.084
+  INTER = 2, 2, CANOPY = 1
+  X = 568759.84, Y = 3485660.18
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 26, UP = 16
+  PRINT = 3, FILE = urban\u_26.sim, XPRINT = streets\u_26.str
+  LENGTH = 36.98, WI = 47.61, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 11.904, G = 203.647, CV = 1.169
+  POROSITY = 0.404, DIST = 0.283, ROCK = 0.09
+  INTER = 2, 2, CANOPY = 1
+  X = 568798.96, Y = 3485683.58
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 40, UP = 41
+  PRINT = 3, FILE = urban\u_40.sim, XPRINT = streets\u_40.str
+  LENGTH = 50.06, WI = 32.02, 8.5
+  SLOPE = 0.05, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 12.017, G = 207.232, CV = 1.171
+  POROSITY = 0.407, DIST = 0.284, ROCK = 0.084
+  INTER = 2, 2, CANOPY = 1
+  X = 568868.39, Y = 3485625.75
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 64, UP = 38
+  PRINT = 3, FILE = urban\u_64.sim, XPRINT = streets\u_64.str
+  LENGTH = 51.06, WI = 33.5, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 12.017, G = 207.232, CV = 1.171
+  POROSITY = 0.407, DIST = 0.284, ROCK = 0.084
+  INTER = 2, 2, CANOPY = 1
+  X = 568820.85, Y = 3485569.71
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 28, UP = 27, 26
+  PRINT = 3, FILE = urban\u_28.sim, XPRINT = streets\u_28.str
+  LENGTH = 26, WI = 111.1, 8.5
+  SLOPE = 0.02, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 12.017, G = 207.232, CV = 1.171
+  POROSITY = 0.407, DIST = 0.284, ROCK = 0.084
+  INTER = 2, 2, CANOPY = 1
+  X = 568793.64, Y = 3485636.29
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN URBAN
+  ID = 39, UP = 40
+  PRINT = 3, FILE = urban\u_39.sim, XPRINT = streets\u_39.str
+  LENGTH = 194.44, WI = 15.06, 8.5
+  SLOPE = 0.05, 0.02, MANNINGS = 0.02, 0.02, 0.02, CS = 0.02
+  KSAT = 12.017, G = 207.232, CV = 1.171
+  POROSITY = 0.407, DIST = 0.284, ROCK = 0.084
+  INTER = 2, 2, CANOPY = 1
+  X = 568870.15, Y = 3485581.06
+  DCI = 0
+  ICI = 0
+  DCP = 1
+  CP = 0
+  NC = 0
+END URBAN
+
+BEGIN ADDER
+  ID = 67, UP = 64, 28, 39
+  PRINT = 3, FILE = urban\u_adder_67.sim
+END ADDER
