@@ -45,7 +45,7 @@ This project compares three hydrologic/hydraulic modeling tools — the AGWA Urb
 
 ## Acknowledgements
 
-This research was funded by The Nature Conservancy, Arizona Business Unit. Special thanks to Holly Richter and Kimberly Schonek (TNC) and Juliet McKenna (Montgomery & Associates).
+This research was funded by The Nature Conservancy. Special thanks to Holly Richter and Kimberly Schonek (TNC) and Juliet McKenna (Montgomery & Associates).
 
 ## License
 
