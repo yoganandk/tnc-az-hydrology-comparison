@@ -32,7 +32,9 @@ This project compares three hydrologic/hydraulic modeling tools — the AGWA Urb
 │   ├── swmm/       # EPA SWMM project files
 │   └── hec-hms/    # HEC-HMS project files
 ├── results/        # Output tables and hydrographs
-└── data/           # Input data (precipitation, soils, parcels)
+├── assets/         # Website styles and scripts
+├── images/         # Website images and figures
+└── index.html      # Project website (GitHub Pages)
 ```
 
 ## Key Findings
