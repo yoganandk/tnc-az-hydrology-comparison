@@ -10,6 +10,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" type="image/png" href="images/favicon.png" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
@@ -19,7 +20,7 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<span class="logo"><img src="images/logo.svg" alt="" /></span>
+						
 						<h1>Choosing the Right Tool for Urban Flood Modeling in Arizona</h1>
 						<p>A comparison of hydrologic and hydraulic modeling tools<br />
 						for urban drainage design and stormwater management.<br />
@@ -41,66 +42,71 @@
 				<!-- Main -->
 					<div id="main">
 
-						<!-- Overview -->
-							<section id="intro" class="main">
-								<div class="spotlight">
-									<div class="content">
-										<header class="major">
-											<h2>When it rains in Arizona, where does the water go?</h2>
-										</header>
-										<p>As cities grow, more land gets paved over. Rain that once soaked into the ground 
-										now rushes across rooftops, driveways, and streets — and ends up flooding roads and 
-										neighborhoods. Arizona's flood control districts use computer models to predict how 
-										much water will flow and how fast, so they can design drainage systems that keep 
-										communities safe.</p>
-										<p>This project asked a simple question: are the models currently in use the best 
-										tools for the job? And could a newer, GIS-based tool called the AGWA Urban Tool 
-										offer a better or complementary approach — one that also helps plan for capturing 
-										that runoff as a water supply resource?</p>
-										<ul class="actions">
-											<li><a href="report/Comparing_HydrologicHydraulic_Modeling_Techniques_used_by_Regional_Flood_Control_Districts_for_Drainage_Design_in_Arizona.docx" class="button">Download Full Report</a></li>
-										</ul>
-									</div>
-									<span class="image"><img src="images/pic01.jpg" alt="Study area map placeholder" /></span>
-								</div>
-							</section>
-
+						
+<!-- Overview -->
+<section id="intro" class="main">
+    <div class="content">
+        <header class="major">
+            <h2>When it rains in Arizona, where does the water go?</h2>
+        </header>
+        <p>As cities grow, more land gets paved over. Rain that once soaked into the ground 
+        now rushes across rooftops, driveways, and streets — and ends up flooding roads and 
+        neighborhoods. Arizona's flood control districts use computer models to predict how 
+        much water will flow and how fast, so they can design drainage systems that keep 
+        communities safe.</p>
+        <p>This project asked a simple question: are the models currently in use the best 
+        tools for the job? And could a newer, GIS-based tool called the AGWA Urban Tool 
+        offer a better or complementary approach — one that also helps plan for capturing 
+        that runoff as a water supply resource?</p>
+                <figure style="text-align:center; margin-top:2em;">
+            <img src="images/urbanhydrology.png" alt="Urban stormwater runoff process" style="width:75%;" />
+        </figure>
+    </div>
+</section>
 						<!-- Models -->
-							<section id="models" class="main special">
-								<header class="major">
-									<h2>Three Tools, One Question</h2>
-									<p>Each model takes a different approach to simulating how rain moves<br />
-									through an urban landscape. Here's what sets them apart.</p>
-								</header>
-								<ul class="features">
-									<li>
-										<span class="icon solid major style1 fa-map"></span>
-										<h3>AGWA Urban Tool</h3>
-										<p>Built on the KINEROS2 model and designed to work inside 
-										ArcMap, AGWA treats each parcel in a neighborhood — roof, driveway, yard — 
-										as its own modeling unit. This fine-grained approach makes it well suited 
-										for evaluating green infrastructure like rain gardens or permeable pavement 
-										at the lot level.</p>
-									</li>
-									<li>
-										<span class="icon major style3 fa-tint"></span>
-										<h3>EPA SWMM</h3>
-										<p>A free, widely used tool from the US EPA, SWMM excels at modeling 
-										stormwater networks — pipes, inlets, channels, and the flow between them. 
-										It has no built-in GIS connection, which means more manual data entry, 
-										but it offers detailed hydraulic simulation that practitioners rely on 
-										for drainage design.</p>
-									</li>
-									<li>
-										<span class="icon major style5 fa-chart-line"></span>
-										<h3>HEC-HMS</h3>
-										<p>Developed by the US Army Corps of Engineers, HEC-HMS is the go-to 
-										tool for many flood control agencies across the country. It offers 
-										a broad range of hydrologic methods, some GIS capability, and a 
-										well-established track record in engineering practice.</p>
-									</li>
-								</ul>
-							</section>
+    <section id="models" class="main special">
+        <header class="major">
+            <h2>Three Tools, One Question</h2>
+            <p>Each model takes a different approach to simulating how rain moves<br />
+            through an urban landscape. Here's what sets them apart.</p>
+        </header>
+        <ul class="features">
+    <li>
+        <figure>
+            <img src="images/agwa.png" alt="La Terraza subdivision in AGWA Urban Tool" style="width:100%; margin-bottom:1em;" />
+            
+        </figure>
+        <h3>AGWA Urban Tool</h3>
+        <p>Built on the KINEROS2 model and designed to work inside 
+        ArcMap, AGWA treats each parcel in a neighborhood — roof, driveway, yard — 
+        as its own modeling unit. This fine-grained approach makes it well suited 
+        for evaluating green infrastructure like rain gardens or permeable pavement 
+        at the lot level.</p>
+    </li>
+    <li>
+        <figure>
+            <img src="images/swmm.png" alt="La Terraza subdivision in EPA SWMM" style="width:100%; margin-bottom:1em;" />
+            
+        </figure>
+        <h3>EPA SWMM</h3>
+        <p>A free, widely used tool from the US EPA, SWMM excels at modeling 
+        stormwater networks — pipes, inlets, channels, and the flow between them. 
+        It has no built-in GIS connection, which means more manual data entry, 
+        but it offers detailed hydraulic simulation that practitioners rely on 
+        for drainage design.</p>
+    </li>
+    <li>
+        <figure>
+            <img src="images/hechms.png" alt="La Terraza subdivision in HEC-HMS" style="width:100%; margin-bottom:1em;" />
+                    </figure>
+        <h3>HEC-HMS</h3>
+        <p>Developed by the US Army Corps of Engineers, HEC-HMS is the go-to 
+        tool for many flood control agencies across the country. It offers 
+        a broad range of hydrologic methods, some GIS capability, and a 
+        well-established track record in engineering practice.</p>
+    </li>
+</ul>
+    </section>
 
 						<!-- Case Study -->
 							<section id="casestudy" class="main special">
@@ -130,18 +136,29 @@
 										<strong>2</strong> Scenarios
 									</li>
 								</ul>
-								<p class="content">La Terraza is a residential subdivision in southeastern Arizona 
-								— the kind of neighborhood you'd find in any growing Sunbelt city. Each model was 
-								set up to simulate the same design storm: a 100-year, 2-hour rainfall event. Two 
-								scenarios were run in each model — one representing conditions before the neighborhood 
-								was built, and one representing it as it exists today. Comparing those two scenarios 
-								reveals how much development has changed the way water moves through the landscape.</p>
-								<footer class="major">
-    <figure>
-        <span class="image"><img src="images/StudyArea.jpg" alt="La Terraza subdivision, Sierra Vista, AZ" /></span>
-        <figcaption><em>Figure 1: La Terraza subdivision, Sierra Vista, AZ.</em></figcaption>
+								<div style="display:flex; gap:2em; align-items:center; text-align:left;">
+    <div style="flex:1;">
+    <p>La Terraza is a residential subdivision in southeastern Arizona 
+    — the kind of neighborhood you'd find in any growing Sunbelt city. Each model was 
+    set up to simulate the same design storm: a 100-year, 2-hour rainfall event. Two 
+    scenarios were run in each model — one representing conditions before the neighborhood 
+    was built, and one representing it as it exists today. Comparing those two scenarios 
+    reveals how much development has changed the way water moves through the landscape.</p>
+    <p>The AGWA Urban Tool used GIS tools in ArcMap to automatically extract parcel 
+    dimensions and soil parameters, making setup relatively straightforward. Results 
+    from AGWA have been validated against 47 observed precipitation events at this 
+    exact site, giving it a strong credibility baseline.</p>
+    <p>HEC-HMS allowed direct import of the parcel dataset but required manual 
+    connection of flow paths. SWMM had no GIS capability — parcel coordinates had 
+    to be exported from GIS, reformatted, and manually inserted into the input file. 
+    In all three models, soil and land cover parameters were derived from the same 
+    source data to ensure a fair comparison.</p>
+</div>
+    <figure style="flex:0 0 37.5%; margin:0;">
+        <img src="images/StudyArea.jpg" alt="La Terraza subdivision, Sierra Vista, AZ" style="width:100%;" />
+        <figcaption><em>La Terraza subdivision, Sierra Vista, AZ.</em></figcaption>
     </figure>
-</footer>
+</div>
 							</section>
 
 						<!-- Results -->
@@ -208,8 +225,8 @@
 								before being used for design decisions here.</p>
 								<footer class="major">
     <figure>
-        <span class="image"><img src="images/HydroCompare.png" alt="Hydrograph comparison for all three models" /></span>
-        <figcaption><em>Figure 2: Comparison of hydrographs for predevelopment and postdevelopment scenarios across all three models.</em></figcaption>
+        <span><img src="images/HydroCompare.png" alt="Hydrograph comparison for all three models" /></span>
+        <figcaption><em>Comparison of hydrographs for predevelopment and postdevelopment scenarios across all three models.</em></figcaption>
     </figure>
 </footer>
 							</section>
@@ -218,7 +235,7 @@
 							<section id="downloads" class="main special">
 								<header class="major">
 									<h2>Downloads &amp; Links</h2>
-									<p>The full report, model files, and input data are freely available.</p>
+									<p>The full report and model files are freely available.</p>
 								</header>
 								<footer class="major">
 									<ul class="actions special">
