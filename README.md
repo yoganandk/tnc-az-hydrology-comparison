@@ -25,6 +25,7 @@ This project compares three hydrologic/hydraulic modeling tools — the AGWA Urb
 **Scenarios:** Predevelopment and postdevelopment
 
 ## Repository Structure
+```
 ├── report/         # Final project report
 ├── models/
 │   ├── agwa/       # AGWA Urban Tool project files
@@ -32,6 +33,7 @@ This project compares three hydrologic/hydraulic modeling tools — the AGWA Urb
 │   └── hec-hms/    # HEC-HMS project files
 ├── results/        # Output tables and hydrographs
 └── data/           # Input data (precipitation, soils, parcels)
+```
 
 ## Key Findings
 
