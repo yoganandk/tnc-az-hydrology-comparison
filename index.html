@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Stellar by HTML5 UP</title>
+		<title>Comparing Hydrologic/Hydraulic Modeling Techniques in Arizona</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -20,119 +20,210 @@
 				<!-- Header -->
 					<header id="header" class="alt">
 						<span class="logo"><img src="images/logo.svg" alt="" /></span>
-						<h1>Stellar</h1>
-						<p>Just another free, fully responsive site template<br />
-						built by <a href="https://twitter.com/ajlkn">@ajlkn</a> for <a href="https://html5up.net">HTML5 UP</a>.</p>
+						<h1>Choosing the Right Tool for Urban Flood Modeling in Arizona</h1>
+						<p>A comparison of hydrologic and hydraulic modeling tools<br />
+						for urban drainage design and stormwater management.<br />
+						Funded by The Nature Conservancy &bull; June 2023<br />
+						<strong>Yoganand Korgaonkar</strong> &bull; University of Arizona</p>
 					</header>
 
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li><a href="#intro" class="active">Introduction</a></li>
-							<li><a href="#first">First Section</a></li>
-							<li><a href="#second">Second Section</a></li>
-							<li><a href="#cta">Get Started</a></li>
+							<li><a href="#intro" class="active">Overview</a></li>
+							<li><a href="#models">Models</a></li>
+							<li><a href="#casestudy">Case Study</a></li>
+							<li><a href="#results">Results</a></li>
+							<li><a href="#downloads">Downloads</a></li>
 						</ul>
 					</nav>
 
 				<!-- Main -->
 					<div id="main">
 
-						<!-- Introduction -->
+						<!-- Overview -->
 							<section id="intro" class="main">
 								<div class="spotlight">
 									<div class="content">
 										<header class="major">
-											<h2>Ipsum sed adipiscing</h2>
+											<h2>When it rains in Arizona, where does the water go?</h2>
 										</header>
-										<p>Sed lorem ipsum dolor sit amet nullam consequat feugiat consequat magna
-										adipiscing magna etiam amet veroeros. Lorem ipsum dolor tempus sit cursus.
-										Tempus nisl et nullam lorem ipsum dolor sit amet aliquam.</p>
+										<p>As cities grow, more land gets paved over. Rain that once soaked into the ground 
+										now rushes across rooftops, driveways, and streets — and ends up flooding roads and 
+										neighborhoods. Arizona's flood control districts use computer models to predict how 
+										much water will flow and how fast, so they can design drainage systems that keep 
+										communities safe.</p>
+										<p>This project asked a simple question: are the models currently in use the best 
+										tools for the job? And could a newer, GIS-based tool called the AGWA Urban Tool 
+										offer a better or complementary approach — one that also helps plan for capturing 
+										that runoff as a water supply resource?</p>
 										<ul class="actions">
-											<li><a href="generic.html" class="button">Learn More</a></li>
+											<li><a href="report/Comparing_HydrologicHydraulic_Modeling_Techniques_used_by_Regional_Flood_Control_Districts_for_Drainage_Design_in_Arizona.docx" class="button">Download Full Report</a></li>
 										</ul>
 									</div>
-									<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+									<span class="image"><img src="images/pic01.jpg" alt="Study area map placeholder" /></span>
 								</div>
 							</section>
 
-						<!-- First Section -->
-							<section id="first" class="main special">
+						<!-- Models -->
+							<section id="models" class="main special">
 								<header class="major">
-									<h2>Magna veroeros</h2>
+									<h2>Three Tools, One Question</h2>
+									<p>Each model takes a different approach to simulating how rain moves<br />
+									through an urban landscape. Here's what sets them apart.</p>
 								</header>
 								<ul class="features">
 									<li>
-										<span class="icon solid major style1 fa-code"></span>
-										<h3>Ipsum consequat</h3>
-										<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+										<span class="icon solid major style1 fa-map"></span>
+										<h3>AGWA Urban Tool</h3>
+										<p>Built on the KINEROS2 model and designed to work inside 
+										ArcMap, AGWA treats each parcel in a neighborhood — roof, driveway, yard — 
+										as its own modeling unit. This fine-grained approach makes it well suited 
+										for evaluating green infrastructure like rain gardens or permeable pavement 
+										at the lot level.</p>
 									</li>
 									<li>
-										<span class="icon major style3 fa-copy"></span>
-										<h3>Amed sed feugiat</h3>
-										<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+										<span class="icon major style3 fa-tint"></span>
+										<h3>EPA SWMM</h3>
+										<p>A free, widely used tool from the US EPA, SWMM excels at modeling 
+										stormwater networks — pipes, inlets, channels, and the flow between them. 
+										It has no built-in GIS connection, which means more manual data entry, 
+										but it offers detailed hydraulic simulation that practitioners rely on 
+										for drainage design.</p>
 									</li>
 									<li>
-										<span class="icon major style5 fa-gem"></span>
-										<h3>Dolor nullam</h3>
-										<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+										<span class="icon major style5 fa-chart-line"></span>
+										<h3>HEC-HMS</h3>
+										<p>Developed by the US Army Corps of Engineers, HEC-HMS is the go-to 
+										tool for many flood control agencies across the country. It offers 
+										a broad range of hydrologic methods, some GIS capability, and a 
+										well-established track record in engineering practice.</p>
 									</li>
 								</ul>
-								<footer class="major">
-									<ul class="actions special">
-										<li><a href="generic.html" class="button">Learn More</a></li>
-									</ul>
-								</footer>
 							</section>
 
-						<!-- Second Section -->
-							<section id="second" class="main special">
+						<!-- Case Study -->
+							<section id="casestudy" class="main special">
 								<header class="major">
-									<h2>Ipsum consequat</h2>
-									<p>Donec imperdiet consequat consequat. Suspendisse feugiat congue<br />
-									posuere. Nulla massa urna, fermentum eget quam aliquet.</p>
+									<h2>Case Study: La Terraza, Sierra Vista, AZ</h2>
+									<p>A real neighborhood. A design storm. Three models put to the test.</p>
 								</header>
 								<ul class="statistics">
 									<li class="style1">
-										<span class="icon solid fa-code-branch"></span>
-										<strong>5,120</strong> Etiam
+										<span class="icon solid fa-map"></span>
+										<strong>14 ha</strong> Watershed Area
 									</li>
 									<li class="style2">
-										<span class="icon fa-folder-open"></span>
-										<strong>8,192</strong> Magna
+										<span class="icon solid fa-home"></span>
+										<strong>66</strong> Residential Lots
 									</li>
 									<li class="style3">
-										<span class="icon solid fa-signal"></span>
-										<strong>2,048</strong> Tempus
+										<span class="icon solid fa-ruler"></span>
+										<strong>1,780 m&sup2;</strong> Avg. Lot Size
 									</li>
 									<li class="style4">
-										<span class="icon solid fa-laptop"></span>
-										<strong>4,096</strong> Aliquam
+										<span class="icon solid fa-cloud-rain"></span>
+										<strong>2.89 in</strong> 100-yr / 2-hr Storm
 									</li>
 									<li class="style5">
-										<span class="icon fa-gem"></span>
-										<strong>1,024</strong> Nullam
+										<span class="icon solid fa-code-branch"></span>
+										<strong>2</strong> Scenarios
 									</li>
 								</ul>
-								<p class="content">Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum ac arcu sit amet, fermentum pellentesque et purus. Integer maximus varius lorem, sed convallis diam accumsan sed. Etiam porttitor placerat sapien, sed eleifend a enim pulvinar faucibus semper quis ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer eget purus nec nulla mattis et accumsan ut magna libero. Morbi auctor iaculis porttitor. Sed ut magna ac risus et hendrerit scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras eu ornare dui curabitur lacinia.</p>
+								<p class="content">La Terraza is a residential subdivision in southeastern Arizona 
+								— the kind of neighborhood you'd find in any growing Sunbelt city. Each model was 
+								set up to simulate the same design storm: a 100-year, 2-hour rainfall event. Two 
+								scenarios were run in each model — one representing conditions before the neighborhood 
+								was built, and one representing it as it exists today. Comparing those two scenarios 
+								reveals how much development has changed the way water moves through the landscape.</p>
 								<footer class="major">
-									<ul class="actions special">
-										<li><a href="generic.html" class="button">Learn More</a></li>
-									</ul>
-								</footer>
+    <figure>
+        <span class="image"><img src="images/StudyArea.jpg" alt="La Terraza subdivision, Sierra Vista, AZ" /></span>
+        <figcaption><em>Figure 1: La Terraza subdivision, Sierra Vista, AZ.</em></figcaption>
+    </figure>
+</footer>
 							</section>
 
-						<!-- Get Started -->
-							<section id="cta" class="main special">
+						<!-- Results -->
+							<section id="results" class="main special">
 								<header class="major">
-									<h2>Congue imperdiet</h2>
-									<p>Donec imperdiet consequat consequat. Suspendisse feugiat congue<br />
-									posuere. Nulla massa urna, fermentum eget quam aliquet.</p>
+									<h2>What the Models Found</h2>
+									<p>All three models agreed that development increases runoff —<br />
+									but they disagreed significantly on how much.</p>
+								</header>
+								<div class="table-wrapper">
+									<table>
+										<thead>
+											<tr>
+												<th>Model</th>
+												<th>Scenario</th>
+												<th>Runoff Volume (mm)</th>
+												<th>Peak Flow (m&sup3;/s)</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td rowspan="2"><strong>AGWA Urban Tool</strong></td>
+												<td>Predevelopment</td>
+												<td>42.26</td>
+												<td>7.10</td>
+											</tr>
+											<tr>
+												<td>Postdevelopment</td>
+												<td>52.83</td>
+												<td>7.33</td>
+											</tr>
+											<tr>
+												<td rowspan="2"><strong>EPA SWMM</strong></td>
+												<td>Predevelopment</td>
+												<td>8.67</td>
+												<td>0.89</td>
+											</tr>
+											<tr>
+												<td>Postdevelopment</td>
+												<td>41.05</td>
+												<td>11.09</td>
+											</tr>
+											<tr>
+												<td rowspan="2"><strong>HEC-HMS</strong></td>
+												<td>Predevelopment</td>
+												<td>34.82</td>
+												<td>4.40</td>
+											</tr>
+											<tr>
+												<td>Postdevelopment</td>
+												<td>40.71</td>
+												<td>5.00</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+								<p class="content">The differences between models come down to how each one 
+								calculates runoff. AGWA and HEC-HMS treat streets as part of each parcel's 
+								drainage calculation, while SWMM handles them separately — which helps explain 
+								why SWMM shows a much larger jump between pre and post development. No single 
+								model is definitively "right," but AGWA's results have been validated against 
+								observed data from this exact site, giving it a credibility edge for this 
+								particular watershed. Both HEC-HMS and SWMM would benefit from local calibration 
+								before being used for design decisions here.</p>
+								<footer class="major">
+    <figure>
+        <span class="image"><img src="images/HydroCompare.png" alt="Hydrograph comparison for all three models" /></span>
+        <figcaption><em>Figure 2: Comparison of hydrographs for predevelopment and postdevelopment scenarios across all three models.</em></figcaption>
+    </figure>
+</footer>
+							</section>
+
+						<!-- Downloads -->
+							<section id="downloads" class="main special">
+								<header class="major">
+									<h2>Downloads &amp; Links</h2>
+									<p>The full report, model files, and input data are freely available.</p>
 								</header>
 								<footer class="major">
 									<ul class="actions special">
-										<li><a href="generic.html" class="button primary">Get Started</a></li>
-										<li><a href="generic.html" class="button">Learn More</a></li>
+										<li><a href="report/Comparing_HydrologicHydraulic_Modeling_Techniques_used_by_Regional_Flood_Control_Districts_for_Drainage_Design_in_Arizona.docx" class="button primary">Download Report</a></li>
+										<li><a href="https://github.com/yoganandk/tnc-az-hydrology-comparison" class="button">View on GitHub</a></li>
 									</ul>
 								</footer>
 							</section>
@@ -142,31 +233,24 @@
 				<!-- Footer -->
 					<footer id="footer">
 						<section>
-							<h2>Aliquam sed mauris</h2>
-							<p>Sed lorem ipsum dolor sit amet et nullam consequat feugiat consequat magna adipiscing tempus etiam dolore veroeros. eget dapibus mauris. Cras aliquet, nisl ut viverra sollicitudin, ligula erat egestas velit, vitae tincidunt odio.</p>
-							<ul class="actions">
-								<li><a href="generic.html" class="button">Learn More</a></li>
-							</ul>
+							<h2>Acknowledgements</h2>
+							<p>This project was made possible by funding from The Nature Conservancy, 
+							Arizona Business Unit. Thanks to Holly Richter and Kimberly Schonek at TNC, 
+							and to Juliet McKenna at Montgomery &amp; Associates for leading stakeholder 
+							engagement. Thanks also to Dave Goodrich at USDA-ARS and Phil Guertin at the 
+							University of Arizona for their guidance throughout.</p>
 						</section>
 						<section>
-							<h2>Etiam feugiat</h2>
+							<h2>Contact</h2>
 							<dl class="alt">
-								<dt>Address</dt>
-								<dd>1234 Somewhere Road &bull; Nashville, TN 00000 &bull; USA</dd>
-								<dt>Phone</dt>
-								<dd>(000) 000-0000 x 0000</dd>
-								<dt>Email</dt>
-								<dd><a href="#">information@untitled.tld</a></dd>
+																<dt>Email</dt>
+								<dd><a href="mailto:yoganandk@arizona.edu">yoganandk@arizona.edu</a></dd>
 							</dl>
 							<ul class="icons">
-								<li><a href="#" class="icon brands fa-twitter alt"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon brands fa-facebook-f alt"><span class="label">Facebook</span></a></li>
-								<li><a href="#" class="icon brands fa-instagram alt"><span class="label">Instagram</span></a></li>
-								<li><a href="#" class="icon brands fa-github alt"><span class="label">GitHub</span></a></li>
-								<li><a href="#" class="icon brands fa-dribbble alt"><span class="label">Dribbble</span></a></li>
+								<li><a href="https://github.com/yoganandk" class="icon brands fa-github alt"><span class="label">GitHub</span></a></li>
 							</ul>
 						</section>
-						<p class="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+						<p class="copyright">&copy; Yoganand Korgaonkar. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
 					</footer>
 
 			</div>
